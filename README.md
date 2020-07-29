@@ -1,4 +1,3 @@
-# Coalition for Critical Technology
 ## Who We Are
 The [open letter to
 Springer](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16)
