@@ -25,5 +25,5 @@ academic power structures.
 - [Abolish the #TechToPrisonPipeline](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16)
 
 ## Connect
-- Follow us on [Twitter](twitter.com/forcriticaltech)
-- Follow us on [Medium](https://medium.com/@CoalitionForCriticalTechnology)
+- [Twitter](twitter.com/forcriticaltech)
+- [Medium](https://medium.com/@CoalitionForCriticalTechnology)
