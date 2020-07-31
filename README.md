@@ -21,7 +21,8 @@ interrogation of how knowledge is valued, created, and employed through
 academic power structures.
 
 ## Our Publications
-- [Abolish the #TechToPrisonPipeline](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16)
+### Abolish the #TechToPrisonPipeline
+This open letter to Springer Publishing is a response to the growing trend of neo-phrenological research in data science and machine learning. We address a specific paper announced in May 2020 that claims to predict criminality from images of faces, but this pathologizing of "criminality" and bio-essentialist view of race is far from unique to this paper. We (and many others) have noticed this trend of building on the long-debunked pseudoscience of phrenology and the role that academia plays in making this work possible. From the funding system, to the publishing apparatus, to the model for tenure-track promotion, the academy is complicit. Read the original Medium post [here](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16).
 
 ## Connect
 - [Twitter](twitter.com/forcriticaltech)
