@@ -7,8 +7,11 @@ Our approach involves continuous reevaluation of epistemic norms and interrogati
 
 ## Our Publications
 ### Abolish the #TechToPrisonPipeline
-This open letter to Springer Publishing is a response to the growing trend of neo-phrenological research in data science and machine learning. We address a specific paper announced in May 2020 that claims to predict criminality from images of faces, but this pathologizing of "criminality" and bio-essentialist view of race is far from unique to this paper. We (and many others) have noticed this trend of building on the long-debunked pseudoscience of phrenology and the role that academia plays in making this work possible. From the funding system, to the publishing apparatus, to the model for tenure-track promotion, the academy is complicit. Read the original Medium post [here](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16).
+- [Original Publication](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16)
+- [PDF Download](https://github.com/forcriticaltech/forcriticaltech.github.io/raw/master/assets/Abolish_the_TechToPrisonPipeline.pdf) (thanks to [Momin Malik](twitter.com/MominMMalik) for formatting with LaTeX)
+This open letter to Springer Publishing is a response to the growing trend of neo-phrenological research in data science and machine learning. We address a specific paper announced in May 2020 that claims to predict criminality from images of faces, but this pathologizing of "criminality" and bio-essentialist view of race is far from unique to this paper. We (and many others) have noticed this trend of building on the long-debunked pseudoscience of phrenology and the role that academia plays in making this work possible. From the funding system, to the publishing apparatus, to the model for tenure-track promotion, the academy is complicit.
 
 ## Connect
 - [Twitter](twitter.com/forcriticaltech)
 - [Medium](https://medium.com/@CoalitionForCriticalTechnology)
+- [Email](mailto:CoalitionForCriticalTechnology@gmail.com)
