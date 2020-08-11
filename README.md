@@ -5,6 +5,8 @@ The academic collective that has emerged from this process will engage in future
 
 Our approach involves continuous reevaluation of epistemic norms and interrogation of how knowledge is valued, created, and employed through academic power structures.
 
+Our Values and Mission Statement (a living document) can be found [here](https://docs.google.com/document/d/1kiY6Wxe1MZ3kAbMi8I8uX3GQejb75AE8DHUT4kId4wQ/edit?usp=sharing)
+
 ## Our Publications
 ### Abolish the #TechToPrisonPipeline
 - [Original Publication](https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16)
