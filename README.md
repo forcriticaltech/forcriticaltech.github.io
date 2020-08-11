@@ -5,7 +5,7 @@ The academic collective that has emerged from this process will engage in future
 
 Our approach involves continuous reevaluation of epistemic norms and interrogation of how knowledge is valued, created, and employed through academic power structures.
 
-Our Values and Mission Statement (a living document) can be found [here](https://docs.google.com/document/d/1kiY6Wxe1MZ3kAbMi8I8uX3GQejb75AE8DHUT4kId4wQ/edit?usp=sharing)
+Our Mission Statement and Values (a living document) can be found [here](https://docs.google.com/document/d/1kiY6Wxe1MZ3kAbMi8I8uX3GQejb75AE8DHUT4kId4wQ/edit?usp=sharing).
 
 ## Our Publications
 ### Abolish the #TechToPrisonPipeline
@@ -18,3 +18,6 @@ This open letter to Springer Publishing is a response to the growing trend of ne
 - [Twitter](https://twitter.com/forcriticaltech)
 - [Medium](https://medium.com/@CoalitionForCriticalTechnology)
 - [Email](mailto:CoalitionForCriticalTechnology@gmail.com)
+
+## About
+- [Mission Statement and Values](https://docs.google.com/document/d/1kiY6Wxe1MZ3kAbMi8I8uX3GQejb75AE8DHUT4kId4wQ/edit?usp=sharing)
