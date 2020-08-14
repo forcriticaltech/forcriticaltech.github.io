@@ -21,3 +21,4 @@ This open letter to Springer Publishing is a response to the growing trend of ne
 
 ## About
 - [Mission Statement and Values](https://docs.google.com/document/d/1kiY6Wxe1MZ3kAbMi8I8uX3GQejb75AE8DHUT4kId4wQ/edit?usp=sharing)
+- [Join our mailing list](http://bit.ly/ForCriticalTechMailingList)
