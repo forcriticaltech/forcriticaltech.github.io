@@ -1,0 +1,2420 @@
+Meredith Whittaker, Research Professor, NYU; Co-founder, AI Now Institute, NYU
+Cathy O'Neil, author of Weapons of Math Destruction and founder of ORCAA
+Wendy Hui Kyong Chun, Simon Fraser University's Canada 150 Research Chair in New Media
+Chris Gilliard, Independent Privacy Researcher
+Sarah Myers West, Postdoctoral Researcher, New York University (AI Now Institute)
+Kelly Gates, Associate Professor, UC San Diego
+Amba Kak, Director of Global Programs, New York University (AI Now Institute)
+Momin M. Malik, Postdoctoral Data Science Fellow, Berkman Klein Center for Internet & Society at Harvard University
+Taylor Owen, Beaverbrook Chair in Media, Ethics and Communications, Max Bell School of Public Policy, McGill
+Ben Green, PhD Candidate, Harvard University
+James W. Malazita, Assistant Professor, RPI
+Carrie Anne Streeter, PhD Candidate, University of California, San Diego
+Vincent Southerland, Executive Director, Center on Race, Inequality, and the Law at NYU Law
+Meredith Broussard, Associate Professor, NYU; author of Artificial Unintelligence
+Ethan Zuckerman, Associate Professor, University of Massachusetts, Amherst
+Brook Hopkins, Executive Director, Criminal Justice Policy Program, Harvard Law School
+Alex Hanna, Research Scientist, Google
+Os Keyes, Ada Lovelace Fellow, University of Washington
+Neda Atanasoski, Professor of Feminist Studies and Critical Race and Ethnic Studies, UC Santa Cruz
+Jeffrey Selbin, Clinical Professor of Law, UC Berkeley School of Law
+Marc S. Janowitz
+Asher Waite-Jones, Berkeley Law Faculty
+Rodrigo Ochigame, PhD Candidate, MIT
+Morgan Klaus Scheuerman, PhD Student of Information Science, University of Colorado Boulder
+Michelle Carney, Lecturer, Stanford d.school
+Simone Wu, Software Engineer, Google
+Madeleine Clare Elish, Program Director, Data & Society Research Institute
+Robyn Caplan, Data & Society Research Institute
+Sareeta Amrute, Associate Professor, Director of Research, and Principal Researcher, University of Washington and the Data & Society Research Institute
+Michele Gilman, Venable Professor of Law, University of Baltimore School of Law
+Dan Bouk, Associate Professor of History, Colgate University
+Matt Goerzen, Researcher, Data & Society Research Institute
+Eden Medina, Associate Professor of Science, Technology, and Society, MIT
+Gillian Smith, Associate Professor of Computer Science, Worcester Polytechnic Institute
+Will Hawkins, Research Associate, DeepMind
+Vinodkumar Prabhakaran, Research Scientist, Google Research
+Stefan Helmreich, Professor of Anthropology, MIT
+Andrew Smart, Researcher, Google
+Catherine D'Ignazio, Assistant Professor of Urban Science & Planning, MIT
+Nick Seaver, Assistant Professor, Tufts University
+Luke Stark, Postdoctoral Researcher, Microsoft Research
+Dwai Banerjee, MIT
+Verónica Uribe A. , Communication Department & Science Studies Program UC San Diego
+Yelena Gluzman, PhD Candidate, UC San Diego
+Emanuel Moss - PhD Candidate, Anthropology - CUNY Graduate Center
+Matthew Vitz, Associate professor of History, UC-San Diego
+Magdalena Donea, PhD Student, UC San Diego
+Tawana Petty, Director, Data Justice Program at Detroit Community Technology Project
+Cathy Gere, professor of history of science, UC San Diego
+Elena Spitzer, Program Manager, Google
+Veena Dubal, Professor of Law, University of California, Hastings
+Jamie Morgenstern, Assistant Professor, University of Washington.
+Seth J. Prins, PhD MPH, Assistant Professor of Epidemiology and
+Sociomedical Sciences, Columbia University
+Cristopher Moore, Professor, Santa Fe Institute
+Erin McElroy, NYU (AI Now Institute)
+Jonathan Zong, PhD researcher, MIT CSAIL
+Ben Hutchinson, Researcher, Google
+danah boyd, Partner Researcher, Microsoft Research
+Megan Graham, Clinical Supervising Attorney, UC Berkeley School of Law
+Laurence Ralph, Professor of Anthropology, Princeton University
+Lisa Nakamura, professor and director of digital studies, U. Michigan Ann Arbor
+Rhea Rahman, Assistant Professor of Anthropology, Brooklyn College, CUNY
+Ezra J. Teboul, Ph.D., Rensselaer Polytechnic Institute
+William Clyde Partin, Research Analyst, Data & Society
+Faithe Day, CLIR Postdoctoral Fellow in Data Curation, Purdue University
+Prathima Muniyappa, Researcher, MIT Media Lab
+Joy Buolamwini, Founder of the Algorithmic Justice League
+Emily Boardman Ndulue, Researcher, Center for Civic Media, MIT Media Lab
+Arwa Mboya
+Lauren Klein, Associate Professor, Department of Quantitative Theory and Methods, Emory University
+Ellen Long, MIT Media Lab
+Neha Narula, Director, Digital Currency Initiative, MIT Media Lab
+Ian Condry, Comparative Media Studies / Writing, MIT
+Mary Anne Smart, PhD Student, University of California, San Diego
+Stacy Godfreey-Igwe, Undergraduate Student, MIT
+James Kilgore, Media Fellow, MediaJustice
+Igor Rubinov, co-founder, Dovetail Labs
+Alexa Hagerty, PhD. Associate Researcher, University of Cambridge
+Dean Jansen, Executive Director, Participatory Culture Foundation
+Matthew Battles
+Cindy S. Bishop -MIT Civic Media
+Manuel Sabin, PhD Candidate, UC Berkeley
+Dr. Kerry McKenzie, University of California, San Diego
+Deb Raji, AI Now Institute, New York University
+Ola Kowalewski, Faculty, Singularity University
+Samir Dayal, Professor, Bentley University.
+Pat Pataranutaporn, MIT Media Lab
+Chijindu Obiofuma, Legal Fellow, Criminal Justice Policy Program, Harvard Law School
+Nicholas Krapf
+Jack Reid, PhD Candidate, Massachusetts Institute of Technology
+Matthew J. Bietz, Researcher, University of California, Irvine
+Daniel Engelberg, MIT
+Sahithi Madireddy, MIT
+Jahrid Clyne, Undergraduate, MIT
+Sharon Lin, Undergrad, MIT
+Alia Husain Rizvi, MIT Department of Urban Studies and Planning Undergrad
+Jonnie Penn (University of Cambridge)
+Edward L. Platt, PhD Candidate, University of Michigan School of Information
+Sabelo Mhlambi, Technology & Human Rights at Harvard University Fellow, Carr Center for Human Rights Policy
+Colin Doyle, Climenko Fellow and Lecturer on Law, Harvard Law School
+Mike Nellis, Emeritus Professor of Criminal Justice, University of Strathclyde , Glasgow
+Azzo Seguin, MIT
+Elizabeth Popkov, Massachusetts Institute of Technology
+Zoe Gong, MIT
+Andrea Arias, undergraduate student at MIT
+Brandie Nonnecke, Director, CITRIS Policy Lab, UC Berkeley
+Elena Sobrino, PhD Candidate, MIT
+Michelle Kornberg, MIT
+Camille Crittenden, Executive Director, Center for IT Research in the Interest of Society (CITRIS), University of California
+Ali Alkhatib, Research Fellow, Center for Applied Data Ethics
+Maia Campbell, Undergraduate, MIT
+Nathaniel Poor, Underwood Institute
+Morgan G. Ames, Assistant Adjunct professor, School of Information, U.C. Berkeley
+Thomas Krendl Gilbert, PhD candidate, UC Berkeley
+Samantha Robertson, PhD Student, UC Berkeley
+Julia Irwin, PhD Student, UC Berkeley
+Morgan Livingston, Undergraduate, University of California, Berkeley
+Niloufar Salehi, Assistant Professor, UC, Berkeley
+Jesse Livezey, Postdoctoral Researcher, Lawrence Berkeley National Lab
+Dr. Jack Poulson, Executive Director, Tech Inquiry
+Marc Faddoul
+Pratik Sachdeva, Graduate Student, University of California, Berkeley
+Devin Michelle Bunten, Assistant Professor of Urban Economics and Housing, MIT
+Ryo Morimoto, Assistant Professor of Anthropology, Princeton University
+Justin Steil, Associate Professor, MIT
+Brian Bartz, MFA, UC Berkeley
+Zeerak Waseem, Ph.D. Candidate, University of Sheffield
+Katherine Mohr, MIT
+Cherise McBride, Ph.D., University of California, Berkeley Graduate School of Education
+Alex Saum, Associate Professor of New Media and Spanish, UC Berkeley
+Jared Joseph, Ph.D. Candidate, University of California - Davis
+Natalia Bilenko
+Rachel Lawrence, PhD student, UC Berkeley
+Ryan Ikeda, University of California, Berkeley
+Madison Stoddard
+Vidushi Marda, Senior Programme Officer, ARTICLE 19
+Gabriel Pereira, PhD Fellow, Aarhus University (Denmark)
+Victor Vicente-Palacios, PhD (Philips Healthcare)
+Adam Greenfield, writer
+Nicholas de Monchaux, Professor and Head of Architecture, MIT
+Prof. Dr. Ines Weizman, Bauhaus-Universität Weimar
+Hannah Sassaman, Policy Director, Movement Alliance Project
+Eber Nolasco-Martinez
+Shumi Bose, Senior Lecturer, University of the Arts London & Royal College of Art
+Sasha Costanza-Chock, Associate Professor of Civic Media, MIT
+Hemank Lamba, Postdoctoral Associate, Carnegie Mellon University
+Alex Reinking, PhD student, UC Berkeley
+Edward McFowland III, Assistant Professor, University of Minnesota
+Sheila Baber, Undergraduate Student, MIT
+Keller Easterling, Professor Yale University
+Molly Jane Nicholas, Graduate Student Researcher, Electrical Engineering and Computer Science department, University of California, Berkeley
+Jackie Wang, Incoming Assistant Professor of Culture and Media Studies, The New School
+Jillian C. York
+David Sengeh, Chief Innovation Officer, DSTI
+Greta Byrum, Co-Director, Community Tech New York
+Casey Hong, MIT
+Lilly Irani, Associate Professor, UC San Diego
+Khahlil Louisy, Harvard University
+Pedro Reynolds-Cuéllar, Ph.D Student, MIT
+Tony Platt, Distinguished Affiliated Scholar, Center for the Study of Law & Society, University of California, Berkeley
+R Mishael Sedas, Research Assistant, University of California, Irvine
+Alexander J. Root, Undergraduate, Massachusetts Institute of Technology
+Marco Lu Nocito, Undergraduate Student, MIT
+Kaili Glasser, Undergraduate, Massachusetts Institute of Technology
+Alex Saum, Associate Professor of New Media and Spanish, UC Berkeley
+Emily Levenson, MIT Department of Urban Studies and Planning undergraduate
+Kierstin Torres, Undergraduate Massachusetts Institute of Technology
+Natasha Hirt, Massachusetts Institute of Technology School of Architecture and Planning
+Roderic Crooks, Assistant Professor of Informatics, UC Irvine
+Micol Seigel, Professor, Indiana University, Bloomington
+Jon Turner, PhD Student, University of California, Berkeley
+Gilbert Bernstein, Post-Doc, UC Berkeley
+Meital Hoffman, Graduate Student, Massachusetts Institute of Technology
+Mehtab Khan
+Lydia T. Liu, PhD student, UC Berkeley
+Renata Barreto, JD / PhD Candidate, Berkeley Law
+Jacob Gaboury, Assistant Professor of Film and Media, University of California, Berkeley
+Anne Jonas, PhD Candidate, UC Berkeley
+Jola Idowu, Graduate Student, Massachusetts Institute of Technology
+Kara Schechtman, MPhil Student in Philosophy at Trinity College Dublin
+Jesse Anderson, B.S. Candidate Bioinformatics, University of Maryland
+Richmond Wong, PhD Candidate, UC Berkeley
+Matt Hodel, Massachusetts Institute of Technology
+Roel Dobbe, Postdoctoral Researcher, NYU (AI Now Institute)
+Alfonso Parra Rubio, MIT Center for Bits and Atoms
+Rubez Chong, MIT Media Lab, Center for Civic Media
+Niklas Mannhardt, undergraduate, MIT
+Paul "Khalid" Alexander, Founder and President of Pillars of the Community
+Safiya Umoja Noble, PhD, Associate Professor and Co-Director, UCLA Center for Critical Internet Inquiry
+Astra Taylor, Co-Founder, The Debt Collective
+Lucianne Walkowicz, Astronomer, The Adler Planetarium
+Chanda Prescod-Weinstein, Assistant Professor of Physics and Core Faculty in Women's and Gender Studies, University of New Hampshire
+Renata Avila , Race and Technology Fellow Stanford Institute for Human-Centered Artificial Intelligence / Center for Comparative Studies in Race and Ethnicity (CCSRE)
+Dr Jess Wade, Imperial College London
+Desmond Upton Patton, Columbia University
+Sarah T. Roberts, Associate Professor and Co-Director, Center for Critical Internet Inquiry (C2i2), UCLA
+Dvir Yogev, PhD student, UC Berkeley
+Joseph Klett, PhD, research staff, Science History Institute
+Joanne McNeil
+Timnit Gebru, Senior Research Scientist, Google
+Samy Bengio, Distinguished Scientist, Google Research, Brain Team
+Dr Cory Doctorow, visiting professor of computer science, Open University UK; visiting professor practice and library science, University of North Carolina; research affiliate, MIT Media Lab
+Wendy Liu, writer
+Dr. Rumman Chowdhury, Global Lead, Responsible AI, Accenture
+Greg M. Epstein, Humanist Chaplain at Harvard and MIT
+Abeba Birhane, PhD candidate, University College Dublin
+Jevan Hutson, Tech Policy Advocate / HCI Researcher, University of Washington School of Law
+Caroline Sinders, Convocation Design + Research
+Jonathan Sterne, Professor, Department of Art History and Communication Studies, McGill University.
+Donna Lanclos, PhD, Anodyne Anthropology LLC
+Francis Tseng, Lead Independent Researcher, Jain Family Institute
+Chris Dulhanty, MASc Candidate, University of Waterloo
+Saeid Tizpaz-Niari, PhD, CU Boulder
+Dr. Frank Schimmel
+Acacia Ackles, PhD Student, BEACON Center at Michigan State University
+Dr Fintan Sheerin, MA MB BChir MRCP FRCR, Consultant Neuroradiologist, Oxford University Hospitals
+Ryan Shaw, Associate Professor, School of Information and Library Science, University of North Carolina at Chapel Hill
+Kushal Sood, Consultant Solicitor-Advocate, Instalaw Solicitors
+Dr Shane A. McGarry, Data Scientist
+S.T.O.P. - The Surveillance Technology Oversight Project
+Martin Felipe Pastor Iglesias Rouco Conde De Cea
+Giulio Valentino Dalla Riva, Lecturer in Data Science, University of Canterbury | Te Whare Wananga o Waitaha
+Dr Hyo Yoon Kang, Senior Lecturer in Law, Kent Law School, United Kingdom
+Min Baek, Founder, Philosophy of Computation at Berkeley
+Zanele Munyikwa, PhD Candidate, MIT Sloan School of Management
+Jeffrey Bigham, Associate Professor, Carnegie Mellon University
+Celeste Kidd, Assistant Professor, UC Berkeley
+Michael Nitabach, Professor, Yale School of Medicine
+Romy Rasper, Science and Technology Studies (STS) Master's Student, Technical University Munich (TUM), Munich Center for Technology in Society (MCTS)
+Anhong Guo, PhD Candidate, Carnegie Mellon University
+Stuart Watt, PhD, CTO at Turalt Inc
+Tarek R. Besold, Chief Science Officer, Alpha Health, Telefonica Innovation Alpha
+Olly R. Teregulova, PhD Candidate, Durham University
+Joey Paulsen, Data Scientist, C.H. Robinson
+Jutta Treviranus, Inclusive Design Research Centre, OCAD University
+Michelle Galeas
+Natasha Mhatre, Canada Research Chair in Invertebrate Neurobiology, Western University
+Vladan Joler, Professor, University of Novi Sad; Co-founder, SHARE Foundation
+Charlton McIlwain, Vice Provost and Professor of Media, Culture, and Communication, NYU
+Rupesh Kumar Srivastava, Senior Research Scientist, NNAISENSE
+Derek S Lundberg, Postdoc, Max Planck Institute for Developmental Biology
+Manon Ironside, PhD candidate in Clinical Science, UC Berkeley
+Dylan Mulvin, Assistant Professor, London School of Economics and Political Science
+Cynthia Bennett, Ph.D. Carnegie Mellon University
+Susie Swithers, Professor of Psychological Sciences, Purdue University
+David Murakami Wood, Associate Professor, Surveillance Studies Centre, Queen's University, Ontario.
+Yoshua Bengio, full professor, scientific director of Mila, University of Montreal
+Sasha Luccioni, Postdoctoral Researcher, Université de Montréal
+David Rolnick, Postdoctoral Fellow, University of Pennsylvania
+Doina Precup, McGill University, Mila & DeepMind Montreal
+Alexia Jolicoeur-Martineau, PhD Student, Mila
+Kushal Arora, Ph.D. Student, Mila and McGill University
+JS, Software Engineer, Microsoft
+Matthew Andres Moreno, Graduate Student, Michigan State University
+Teffera Teffera, Graduate student, 3A Institute at ANU
+Jules Gagnon-Marchand
+Nantina Vgontzas, PhD Candidate, New York University
+João Felipe Santos, PhD, NVIDIA
+Emily M. Bender, Professor of Linguistics, University of Washington
+Monique Desnoyers, MDes, Canadian Fédéral Government employée
+Patrick R. Alba
+Benson Mwangi, PhD Assistant Professor - The University of Texas Health Science Center at Houston (Uthealth)
+Steve Sloto, Data Engineer, Amazon Web Services
+Jacob Eisenstein, Research Scientist, Google AI
+Julia Hockenmaier, Associate Professor, Computer Science, University of Illinois
+Siddharth Agarwal, KU Leuven MAI
+Suresh Venkatasubramanian. Professor, University of Utah.
+Hansenclever Bassani, Associate Professor, Universidade Federal de Pernambuco
+Christopher J. Morten, Fellow and Supervising Attorney, NYU School of Law
+Andrew Garrett, Professor of Linguistics, University of California, Berkeley
+Nicolas Le Roux, senior research scientist, Canada CIFAR AI Chair, Google Brain
+Simone Browne, Professor, University of Texas at Austin
+Gonzalo G. De Polavieja, Champalimaud Research, Portugal
+María Angel, PhD Student, University of Washington School of Law
+Casey Fiesler, Information Science, University of Colorado Boulder
+Jeremy Barnes - Postdoctoral Fellow - University of Oslo
+Arturo Magidin, Associate Professor of Mathematics, UL Lafayette
+Ushnish Sengupta, PhD Candidate, University of Toronto
+Neil Thawani
+Dr Kaye Rolls, University of Wollongong
+Jennifer Aronson, University of Washington Law Graduate, Class of 2020
+Sarah Tuttle, Assistant Professor of Astronomy, University of Washington, Seattle
+Alan Lundgard, Teaching Fellow, MIT
+Prasanna Parthasarathi, PhD Candidate, McGill University.
+Gabriel Pettier - software engineer
+Lisa Davidson, Professor of Linguistics, New York University
+A Kinikar, PhD Student, ETHZ
+Maggie Oates, PhD Student, Carnegie Mellon University
+Nathan Oseroff-Spicer, researcher
+Nikita Srivatsan, PhD Student, Carnegie Mellon University
+Aasakiran Madamanchi, Lecturer, University of Michigan School of Information
+Leif Nepstad
+Carolyn Jane Anderson, PhD candidate, University of Massachusetts, Amherst
+Natasha Warner, Professor, University of Arizona
+Fabiola Henri
+Simon Guiroy, PhD Student, Mila - Université de Montréal
+Professor Kathy Bowrey, Faculty of Law, University of New South Wales, Australia.
+Nazanin Sepahvand, McGill, Yes
+Krystal Maughan, PhD student, University of Vermont
+Ryan A. Cannistraci, Ph.D. Candidate, University of Tennessee
+Ted Pedersen, Professor, Department of Computer Science, University of Minnesota, Duluth
+Mazen Alotaibi
+Dr. Sonia Balagopalan, Assistant Professor, School of Mathematical Sciences, Dublin City University
+Alex Davis, Associate Professor, Carnegie Mellon University
+Blakeley H. Payne, MIT Media Lab Alumna '20
+Jeremy Kahn, Strategy Linguist, AR/VR - Facebook
+Sara Beery, PhD Candidate, Caltech
+Mutale Nkonde, fellow Berkman Klein Center of Internet & Society and Digital Civil Society Lab, Stanford University
+Rahul Dandekar, Postdoctoral Fellow, IMSc, Chennai, India
+Robert White, academic Senate Vice President and physics instructor, Butte College
+R. Stuart Geiger, Assistant Professor, UC San Diego, Dept of Communication and Halıcıoğlu Data Science Institute
+Catherine Holmes, J.D University of Washington School of Law alumni
+Jaime Ullinger, Associate Professor of Anthropology, Quinnipiac University
+Natalie Bernat, PhD Candidate, Caltech
+Frédéric Bastien, NVIDIA, principale deep learning compiler engineer
+massimo caccia, phd, MILA
+Su Lin Blodgett, PhD Candidate, UMass Amherst
+Bo Wang, Dr, University of Oxford
+Brigitte Rooney, PhD, California Institute of Technology
+Eldan Goldenberg, data analyst.
+Román Corfas, Postdoc, Caltech
+Claire Fontaine, Postdoctoral Researcher, University of Pennsylvania, School of Social Policy & Practice
+Sanmi Koyejo, Assistant Professor, University of Illinois at Urbana-Champaign
+Jorge Garcia Flores, Research Engineer, CNRS-Université Sorbonne Paris Nord
+Clayton Lewis, Professor of Computer Science, University of Colorado Boulder
+Hillary J. Haldane, PhD. Professor of Anthropology, Quinnipiac University
+Eugenio Tisselli Vélez, PhD, Programa ACT - UNAM
+Jack B. Muir, Graduate Student, Seismological Laboratory of the California Institute of Technology
+Lauren M. Sardi, PhD, Associate Professor of Sociology, Quinnipiac University
+Dr. William Janeway, University of Cambridge
+Jon Pincus, A Change Is Coming
+Jerome Hodges, Managing Director and Chief Research Officer, Jain Family Institute
+William Wentworth
+Brandeis Marshall, Professor, Spelman College
+Jacinta González, Senior Campaign Organizer, Mijente
+Haley Bauser, Applied Physics PhD Candidate, Caltech
+Sarthak Jain, PhD student, Northeastern University
+Qin Shi Huang, Masters Student, Tsinghua University
+Paulus A J M de Wit MSc., PhD candidate, Universidade Federal de Santa Catarina
+Hugo Larochelle, Senior Staff Research Scientist, Canada CIFAR AI Chair, Google Brain
+Smarika Lulz, PhD Researcher, Dept. of Law, Humboldt University Berlin
+Han Kim, PhD Student, Caltech
+Nikolaus Howe, MSc Student, Mila + University of Montreal
+Daniel Currie Hall, associate professor, Program in Linguistics, Saint Mary's University, Halifax, Nova Scotia
+Brian Nord, Associate Scientist, Fermi National Accelerator Laboratory (FNAL)
+Margarita Boyarskaya, PhD Candidate, NYU Stern dept. of Technology, Operations, and Statistics
+Rachel Thomas, Director of University of San Francisco Center for Applied Data Ethics
+Philip Alston, Professor, New York University School of Law
+Katie Albanese, Attorney and Physicist
+Meng Cao, Master in Computer Science, McGill University/Mila
+Chris Brew, Linguist, Facebook AR/VR
+Wendy Norris, PhD Candidate, University of Colorado Boulder
+Nicolas Gontier; PhD; Mila
+Pierre-Luc Bacon, assistant professor, Mila University of Montreal
+Kiran Samuel, PhD student, Columbia University
+John Philip, Software Engineer, BuzzFeed
+Heidi Harley, Professor, University of Arizona
+Aronis Mariano, Machine learning engineer
+Henry M. Clever, Ph.D. Candidate, Georgia Institute of Technology
+Howard Huang, PhD Student, Mila & McGill University
+Joshua Loftus, Assistant Professor of Statistics, New York University
+Corey Lynch, Research Engineer, Google Brain
+Ruth Rouvier, PhD Candidate, UC Berkeley
+Jennifer Medina, Graduate Student, California State University Fullerton
+Sadik Muzemil
+Cynthia Matuszek, UMBC
+Aparajithan Venkateswaran
+Michael Katell, PhD Candidate, University of Washington
+Matthew Hernandez, J.D. - University of Washington School of Law
+Fiona J McEvoy
+Nandita Sampath, MPP, UC Berkeley
+Daniel Estrada, Lecturer, NJIT
+Chung-chieh Shan, Associate Professor, Indiana University
+Julian Stephens, Undergraduate, Georgia Institute of Technology
+Prof. William J. Bowman, University of British Columbia
+Manuela Girotti, researcher, Mila - Université de Montréal and Concordia University
+Anisha Karnail, BS-MS Student, IISER Pune
+Caitlin Green
+Alvin Grissom II, Ph.D., Assistant Professor of Computer Science, Haverford College
+Paul Crouther, MSc Student, Mila + University of Montreal
+Hannah Mieczkowski, PhD candidate, Stanford University
+Amy Fountain, PhD, University of Arizona
+Emma Ward, PhD Candidate, Donders Institute for Brain ,Cognition and Behaviour
+Vincent Michalski, Ph.D. candidate, Université de Montréal/Mila
+Daniel Johnson, Google Research
+Milan Roberson, B.S. Caltech 2020
+Leonardo Gonzalez
+Anastasia Schaadhardt, PhD Student, University of Washington Information School
+Tegan Maharaj, PhD student, Mila (Montreal Polytechnic)
+Lev M Tsypin (PhD Candidate at the California Institute of Technology)
+Brendan ThesinghAbigail Gilbert
+Dr Abigail Gilbert, Institute for the Future of Work
+Michael Israel, Associate Professor of English Language, University of Maryland, College Park
+Professor Gina Neff, Oxford Internet Institute
+Charlie Negri
+Dr T.Timan, TNO, The Netherlands
+Neil Girdhar
+Angela Cardoso,Philosophy, Science and values Master student, Universidade del Pais Vasco
+Angela Cardoso,Philosophy, Science and values Master student, Universidade del Pais Vasco
+Aparna Krishnan, BS in Computer Science Candidate, University of Texas at Austin
+Olivia Guest, PhD
+Jonathan Pekar, MS, UC San Diego
+Achref Jaziri, Goethe University Frankfurt am Main
+Sarah Lamm, Graduate Student, Kansas State University
+Mariya I. Vasileva, PhD candidate, University of Illinois at Urbana-Champaign
+David Stap
+Dr. Albert Ali Salah, Utrecht University
+Habtamu Bekele, Addis Abeba University
+wuletawu.abera@cgiar.org
+Reubs Walsh, Vrije Universiteit Amsterdam
+Leeza Soulina, J.D., University of Washington School of Law
+Prof. Dr. Anne Koelewijn, Machine Learning & Data Analytics Lab, FAU Erlangen-Nürnberg
+Titouan Vayer, PhD Student, IRISA.
+David Dao, PhD Student, ETH Zurich
+Dr Andrew Princep, Keeley-Rutherford Junior Research Fellow, University of Oxford
+Dr. Matan Yah Ben Zion, ESPCI, Paris
+Lorijn Zaadnoordijk - Postdoctoral Researcher - Trinity College Dublin
+Marlo Souza, PhD, Universidade Federal da Bahia
+Kirstie Whitaker, Programme Lead for Tools, Practices and Systems, Alan Turing Institute
+Mr Henry Wilde, Cardiff University
+Dr. Christina Bergmann, Max Planck Institute for Psycholinguistics
+Jevan Hutson, Tech Policy Advocate / HCI Researcher, University of Washington School of Law
+Scott Robbins, PhD Researcher, Delft University of Technology
+Jesse Benjamin, PhD Student, University of Twente
+Esther Payne, privacy and community advocate, Librecast.
+Geoffrey Jobson
+Nick Bestor, Lecturer, University of Texas at Austin
+Parker Rose
+Ayodele Odubela, Data Scientist, SambaSafety
+Imani, Student Rotterdam University of Applied Siences
+Markus Andrezak, überproduct GmbH, Germany
+Mário PlattMolly Nagele, MIT 2020Ana Valdivia -
+Dr Garfield Benjamin, Researcher, Solent University
+Moe Bakheit; MEASC International
+Kalim Ahmed, UCL
+Prabhant Singh, Research engineer, TU Eindhoven
+dr. Felienne Hermans, Leiden University
+Bram van Es, PhD, University Medical Center Utrecht
+Elida Maiques
+Grady Booch, IBM Fellow, IBM Research
+Jelle van Dijk, University of Twente
+Pieter Sleutels, student of medical history, Radboud University Nijmegen
+Dr. Bernat Guillén Pegueroles, Data Scientist, Google
+Dr Cynthia C. S. Liem MMus, Delft University of Technology
+Amrit Purshotam, Machine Learning Engineer, Takealot
+Valérie Nowak, MCTS
+Celia Cintas, PhD
+Edwn Lopez, Software Engineer, Independent contractor. Colombia/Spain
+Laurie Winkless
+Tristan Bergh, BSc (Eng), Data Science Lead, EOH Mthombo
+Tessa Darbyshire, Scientific Editor, Patterns, Cell Press
+Dr Beth Singler, Homerton College, University of Cambridge
+Ethan P. White, Associate Professor, University of Florida
+Marc Evers
+Tracy Sweet, Associate Professor, UMD
+Riccardo Angius, Machine Learning Research Scholar, Università degli Studi di Padova
+Igor Brigadir, PhD, University College Dublin
+Florian Dreher, Senior Data Scientist, Evolutionizer
+Misgina Tsighe Hagos, Associate researcher, Ethiopian Biotechnology Institute
+Kendra Clarke, VP Data Science and Product Development, sparks & honey
+Michele Lewis, Assoc Professor, WSSU
+Aman Tiwari, Engineer, Ctrl-Labs
+Dr. M. Dingemanse, Radboud University, Nijmegen'
+Félix Harvey, Mila, Québec, Canada
+Joshua Thorpe, PharmDAndrew Janjigian
+Associate Professor Jane Anderson, New York University
+David Colby Reed, Researcher, MIT Media Lab
+Yong Xin Hui, graduate student, University of Pittsburgh
+Prof Andy Way, DCU
+Federico Micheli, PhD student
+Laurence Perreault Levasseur, Assistant Professor, Mila, Université de Montréal
+Silvester Sabathiel, NTNU Trondheim
+Adriana Heguy
+Surya Karthik Mukkavilli, Project Scientist, University of California and affiliate - US DOE (LBNL/PNNL), McGill School of CS
+Anya E Vostinar, PhD, Carleton College
+Mélisande Teng, Mila
+Sarah T. Hamid, Policing Tech Campaign Lead at Carceral Tech Resistance Network
+Paul Zivich, PhD Candidate, University of North Carolina at Chapel Hill
+Sean McDonald, Digital Public
+Tom Johnson, VAP, Skidmore College
+Yseult Héjja-Brichard, Phd student, Cerco
+Scarlett Winters, Data Analyst
+Dani Shuster
+Jonathan Lebensold, Ph.D. Researcher, Mila
+Milo Phillips-Brow, Postdoctoral Associate in the Ethics of Technology, MIT Philosophy
+Ather Shabbar. Inclusive Designer, OCAD U.
+Jacqueline D. Wernimont, Distinguished Chair of Digital Humanities and Social Engagement, Dartmouth
+Dylan Phelan, Master's Student, Tufts University.
+Sarah Amandes
+Tadeusz Zawidzki, Associate Professor and Chair of Philosophy, George Washington University
+Daniel Brennan, PhD Student CUNY Neuroscience
+David Cox, IBM Director, MIT-IBM Watson AI Lab, IBM Research
+Anne Rochon Ford
+Vivian Song, MIT alumnus
+Anna Chung, Alum, MIT
+Kade Crockford, Director, Technology for Liberty Program, ACLU of Massachusetts
+Mara Mills, Co-Director, NYU Center for Disability Studies
+Frederic Osterrath, Research software development manager, Mila
+Aimi Hamraie, Vanderbilt University and Critical Design Lab
+Kerime Alejo
+Dr. Joy Lisi Rankin, Research Lead, AI Now Institute, NYU
+Tom Mullaney, Professor of History, Stanford University
+Blake Richards, Canada CIFAR AI Chair, Mila/McGill
+Whitney Brim-DeForest, PhD, University of California
+Dr Pierre Petitet, University of Oxford
+Egemen Sert, Undergraduate Researcher, Middle East Technical University
+Eray Ozkural, Celestial Intellect Cybernetics (Machine learning researcher)
+Jianyuan Zhong
+Elizabeth Shabbar, Concerned retiree
+Shane O'Connell, PhD candidate at NUI Galway
+Heidi Overhill, Professor, Sheridan College Institute of Technology and Advanced Learning
+Jonathan Peck, M.Sc., Ghent University
+Josh Glaser, Postdoctoral researcher, Columbia University
+Vinod Subramanian, PhD student, Queen Mary University of London
+Florian Golemo, Postdoc, Mila & ElementAI
+Zoe Mitchell, M.L.I.S
+Faye Ginsburg, Kriser Professor of Anthropology, NYU
+tania
+Mimi Onuoha, Visiting Assistant Arts Professor, NYU
+Emily Cunningham, User Experience Designer, Amazon Employees for Climate Justice
+Amar Ashar, Berkman Klein Center
+Eric Lawton, Executive IT Architect, retired.
+Kat R Matchett, BA, University of Windsor
+Lora Johns
+Phil Torres, Global Catastrophic Risk Scholar
+Rebecca Smith
+Miranda Wei, PhD Student, University of Washington
+Meredith Ringel Morris, Sr. Principal Researcher and Research Manager, Microsoft Research
+Jez Humble, Google and UC Berkeley
+Sebastian HarkoRoger McNameeRussell RichieMolly Moroz
+Ore Ogundipe, Software Engineer @ Microsoft
+libi rose striegl, PhD, University of Colorado at Boulder
+Samuel, Engineer
+Dr. Leon Derczynski, Assistant Professor, IT University of Copenhagen
+Douglas Blank, emeritus professor computer science, Bryn Mawr College
+Jordi Vitria, Professor, Universitat de Barcelona
+Waseem Abbas, PhD, University of Barcelona
+Sarah Fox, Assistant Professor, Carnegie Mellon University
+JS Tweedie
+Angela Zito, Associate Professor, Anthropology, NYU
+Maxime Gasse, PhD, Polytechnique Montréal
+MATHANA, Tech Ethicist
+Ari Morcos, Research Scientist, Facebook AI Research
+Sarah Atchinson, 2020 J.D., University of Washington School of Law
+Brian Rice
+This is clearly harmful work, and does not belong in any rigorous publication -Michael Vogelsang
+Michael Brennan, CS/Math Student, PCC
+Sandeep Silwal, Graduate Student, MIT
+Jeremy Kun
+Josue Ortega Caro, Machine Learning Graduate Student, Baylor College of Medicine
+M. Stella T, Data Scientist, Musixmatch
+marcantonio rendino
+Nilesh M Negi, Systems/SW Engineer, Hewlett Packard Enterprise
+Chenda Bunkasem
+Emma Bluemke, PhD Student, University of Oxford
+Elizabeth Anne Watkins, Columbia University, Data & Society Research Institute
+Dr. Manuchehr Aminian, Cal Poly Pomona
+Rayna Rapp, Professor, New York University
+Nic Fishman, Stanford University
+Sivaramakrishnan Subramanian, Data Scientist, AppOrchid Inc.
+Dr. Abraham Hmiel
+Cheryl Giraudy, Assoc. Prof. OCAD University
+Clay ONeil, data scientistRichard Coca, Stanford
+Fred Myers, Professor of Anthropology, New York University
+Jacob Sujin Kuppermann, M.S Student, Stanford University
+Alex Rudnick, Google AI
+Ashok Khosla, President, The Khosla Foundation
+Maxime Lenormand, Junior Remote Sensing Engineer, and just a concerned machine learning practitioner + citizen
+Michael Brent, Data Ethics Officer, Enigma Technologies
+Raphael Labaca Castro
+Sohini Upadhyay, Research Engineer, IBM Research AI
+Mariah Peebles, Managing Director, AI Now Institute at NYU
+Jacob Miller, Postdoctoral Fellow, Mila
+Javier Iranzo-Sánchez, PhD Fellow, Universitat Politècnica de València
+Daniel Valdenegro, University of Leeds
+R. Luke DuBois, Associate Professor, NYU Tandon School of Engineering
+Simone Montali, studenti at Università di Parma
+Cora Went, PhD Candidate, Caltech
+Francis Hunger, Bauhaus Universität Weimar, Germany, PhD candidate
+Sayan Goswami, Senior Year Undergraduate, Jadavpur University, India.
+Bhaskar DuttaJulia Morcos
+Susan Brown, PE, Unitarian Universalist
+Antoine Prouvost
+Phurushotham Shekar, Student, Rutgers University
+Noelle Campbell-Smith, sr. Interaction designer, Ontario Digital Service
+Christine Geeng, PhD Student, University of Washington
+Dylan Phelan, Master's Student, Tufts University.
+Anand D. Sarwate, Assistant Professor, Rutgers University
+Boury Mbodj - McGill University Graduate
+Lucy Suchman, Professor, Anthropology of Science and Technology, Lancaster University, UK
+Leo Stewart, PhD Student, Information Science at University of Washington
+Travis Chamberlain, MSc LSE, UCSD Philosophy and Rady School of Management
+Karin Sattler
+Gauthier Gidel, Ph.D. student, Mila and DIRO, Université de Montréal
+Maria Y. Rodriguez PhD, MSW, Assistant Professor, University at Buffalo School of Social Work
+Mikael Gramont, Software Engineer
+Andy Birch, Product Designer
+Lee Clement, PhD
+Christopher Carlson, MBA Candidate 2021, USC Marshall School of Business
+D Pham
+Avital Oliver, Senior Research Engineer, Google Brain
+Nikhil Thorat, Google, Software Engineer in Google Brain (signing as a citizen)
+Eloy Geenjaar, BSc, Delft University of Technology
+Dr Richard Hull, Programme Director for MA Social Entrepreneurship, Goldsmiths, University of London
+Jack Gold, web developer
+Trevor Ortega, Computer Vision Research Assistant, Western Washington University
+Rajesh Sundaram, Machine Learning developer, Texas A&M University.
+David Gil de Gómez Pérez, PhD Student, University of Eastern Finland
+Nicolas Castellanos, Student, Dalhousie University
+Dr. Stefan Fridriksson
+Ore Ogundipe, Software Engineer @ Microsoft
+Joseph Fridman
+Matthew Scicluna. Researcher at the Montreal Heart Institute.
+Sarah Ng, PhD student, University of California-Irvine
+Megan - Engineering Student at Dalhousie University
+Dr Alex Voss, Lecturer in Software Engineering, School of Computer Science, University of St Andrews
+Michael D. Ekstrand, Assistant Professor, Boise State University
+Alexis Hope, MIT Media Lab
+Andrew Lampinen, Graduate Student, Stanford University
+Sierra Sparks, Senior Year Electrical Engineering Student, Dalhousie University
+Baasit Abubakr, Ph.D scholar, Jawaharlal Nehru University (JNU), Delhi
+Ole Winther, University of Copenhagen, Professor
+Shubham Sah
+Dr. Ingmar Weber, Qatar Computing Research Institute, HBKU
+Parker Koch, University of Michigan PhD Candidate
+Kaelen Watters
+Dustin Wright, PhD Student, University of Copenhagen
+Carol Klassen
+Stella Biderman, AI Researcher, Booz Allen Hamilton
+Kate Leitch, PhD, Caltech
+Pierre Gutierrez, ML engineer. Face is not linked to criminality except from existing bias. This cannot help justice. This has to be stopped.
+Jeremy Pinto, Applied Research Scientist, Mila
+Cole Gleason, Ph.D. Candidate, Carnegie Mellon University
+Deepak George, Law Student
+Gabriel Dulac-Arnold, Researcher, Google Research
+Arun Sai Suggala, Carnegie Mellon University
+Frank Blendinger, Senior Software Engineer, Method Park
+David Samuel, bc., Charles University
+Jessica Faure
+Dr. Piotr Mirowski, Staff Research Scientist, DeepMind
+Brandon Bohrer, PhD Candidate, Carnegie Mellon University
+Sophia Sun, PhD student
+Roman Werpachowski, Research Engineer, DeepMind
+Paromita Shah, Executive Director, Just Futures Law
+Madeline Smithdr. andrew quitmeyer
+McKane Andrus, Research Associate, Partnership on AI
+Bianka Hofmann, Head of Communications, Fraunhofer MEVIS
+Budhaditya Deb, Principal Scientist, Microsoft
+Dylan Phelan, Master's Student, Tufts University.
+Cara Hall
+Dr. Álvaro Cabana, Universidad de la República, Uruguay
+Harshvardhan Uppaluru, PhD Student , George Washington University
+Julia Kramer
+Danny Spitzberg, UX researcher
+Shamelle Richards, JD Candidate, Yale Law School
+Maria De-Arteaga, Assistant Professor, UT Austin
+Margaret Levi, Professor of Political Science, Stanford University
+Rebecca Tingley, Electrical and Software Engineer, Dalhousie University
+Clarissa Forbes, Postdoctoral Fellow, University of Arizona
+Cybele SackJohn Rigoni
+Riley Miladi, Machine Learning Research Engineer at Embark Studios
+NM Amadeo, Software Engineer, Google
+Barry Lathrop, Law Student, Temple University Beasley School of Law '21Sheshera Mysore, PhD Student, UMass Amherst
+Lawrence Han, Undergraduate, Carnegie Mellon University
+Edward Ongweso JR
+Cathleen Fry, Agnew Postdoctoral Fellow, Los Alamos National Laboratory
+Moira Weigel, Harvard Society of Fellows
+Mia Judkins, Technical Program Manager
+Michelle Kuchera, Assistant Professor of Physics, Davidson College
+Elena Zheleva, University of Illinois at Chicago
+Gabriel Tseng, Machine Learning Engineer
+Sydney Corona
+Christopher Tang, Ph. D. Candidate, California Institute of Technology
+Sun-ha Hong, Assistant Professor, Simon Fraser University
+libi rose striegl, PhD, Media Archaeology Lab, University of Colorado at Boulder
+Professor Kavita Philip, History of Science and Technology, U C Irvine
+Dr. Rachael Tatman, Senior Developer Advocate, Rasa Technologies
+Anah Shabbar, Greenbelt Arts
+Matthew L Leavitt, PhD, Facebook AI Research
+Tianyu Zhang, Incoming MSc Student, Montreal Institute for Learning Algorithms (Mila)
+Tianyu Zhang, Incoming MSc Student, Montreal Institute for Learning Algorithms (Mila)
+Lorenzo Porcaro, PhD Student, Universitat Pompeu Fabra
+Dr. Sergio Guadarrama, Staff Software Engineer, Google Research
+Ana M. Tarano
+Dr. Matthias Korn, Social Informatics, Germany
+Molly Quinn, University College Dublin
+Ben Verhoeven, PhD in Computational Linguistics, Antwerp, Belgium
+Andrea Reyes Elizondo, researcher, Leiden University
+Seda Gurses
+Robert Elliott Smith PhD FRSA, University College London
+Jeffrey Liu, PhD, MIT Lincoln Laboratory
+Dr Harry Farmer, Lecturer in Psychology, University of Greenwich
+Melissa McCradden, Bioethicist, University of Toronto
+Dr. Dennis Müller, Computer Science, University Erlangen-Nürnberg
+Ieke de Vries, Assistant Professor, Florida State University
+Paul Feigelfeld
+Michael Barany, University of Edinburgh
+P M Krafft, Senior Research Fellow, Oxford Internet Institute
+Samyu Comandur, Computer Science and Statistics Student, University of South Carolina
+Dr. Mona Sloane, New York University
+Dr Shauna Concannon, University of Cambridge
+Henry Choi, Assistant Professor at Handong Global University
+Masataka Nakajima
+Jeremy Clark, Concordia University
+Ken Norton, Product Manager, Google
+Molly Des Jardin, data analyst (University of Pennsylvania)
+Stacy Wood, Assistant Professor in the School of Computing and Information at the University of Pittsburgh
+Graham Jones, Associate Professor of Anthropology, MIT
+Tom Williams, Assistant Professor of Computer Science, Colorado School of Mines
+Dr Catherine Flick, Reader in Computing and Social Responsibility, De Montfort University, UK
+Kathleen Mills, PhD Candidate, Memorial Sloan Kettering
+Gabriel Nicholas
+Scott Fitzgerald, Industry Associate Professor, NYU Tandon
+Megan Doerr, MS, LGC
+Toby Walsh, Professor of AI, UNSW Sydney
+Sarah Villeneuve
+Gemma Galdon Clavell, PhD, Eticas Research and Consulting
+Steven Umbrello, Managing Director, Institute for Ethics and Emerging Technologies
+Jared M. Field, McKenzie Fellow, University of Melbourne
+Zeerak Waseem, Ph.D. Candidate, University of Sheffield
+Dr Alison Powell, Associate Professor, London School of Economics and JUST AI Project, Ada Lovelace Institute
+Sarada Mahesh
+Laura Forlano, Associate Professor, Illinois Institute of Technology
+Nicholas Kroeger, PhD Student, UF
+Hala Iqbal, Postdoctoral Scientist, NYU Langone
+Gretchen Krueger
+Jonathan Soffer Professor of History and Chair, Dept of Technology, Culture, and Society NYU Tandon School of Engineering
+Dr Jared M. Field, McKenzie Fellow, University of Melbourne
+Loubna Benabbou Professor University of Quebec
+Jane Anderson, Associate Professor New York University
+Ben WintersHee-seung Yun
+Evan Selinger, Professor, Rochester Institute of Technology
+Michael Zimmer, Associate Professor of Computer Science, Marquette University
+Judeth Oden Choi, PhD student, HCII, Carnegie Mellon
+Benjamin Prud'homme, Executive Director, AI For Humanity, Mila
+Tiffany Vazquez, Editor, GIPHY
+Florian Bordes, PhD Candidate, Université de Montréal
+Arwa Mboya
+Andrew Williams
+Shea Swauger, Senior Instructor, University of Colorado Denver
+Kay Kirkpatrick, Associate Professor, University of Illinois
+TJ Kolleh
+Jason Clarke
+Jacinthe Mongrain, IT Validation Specialist at Optel, supplier of traceability systems
+Heng Ji, Professor, University of Illinois at Urbana-Champaign
+Kaila Colyott, PhD, University of Kansas
+Mahta Ramezanian, Research Assistant, Mila
+Mutale Nkonde, AI for the People
+Dr Kristopher Wilson, Faculty of Law, University of Technology Sydney
+Sinan Ozdemir, Director of Data Science at Directly
+Ms Uma Zalakain, University of Glasgow
+Teemu Roos, PhD, Professor of Computer Science, University of Helsinki
+Joanne Boisson
+Andy Stuhl, PhD Student, McGill University
+Emma Manning, PhD Candidate, Georgetown University
+Kate Crawford, NYU
+L Jean Camp, Professor, Indiana University
+Andrew M.C. Dawes, Professor of Physics, Pacific University
+Mehdi Merai, CEO at Dataperformers
+Michael G. Lerner, Associate Professor of Physics and Astronomy, Earlham College
+Tom Price (PhD, Theory of Condensed Matter Group, Cambridge); Software Engineer
+Thomas Nigl, Graduate Student, Penn State University, USA
+Michael W. Busch, PhD, SETI Institute
+Ömer Sümer, PhD Candidate, University of Tübingen
+Jiri Hron, PhD candidate, University of Cambridge
+Jean Gallagher, Professor, NYU Tandon School of Engineering
+Myrthe Reuver, MSc Student Cognitive Science & AI
+Konstantinos Drossos, Tampere University
+Danya Glabau, Industry Assistant Professor, NYU Tandon School of Engineering
+Linnet Taylor, Tilburg University, NL
+Graham Pash, Graduate Student, University of Texas at Austin
+Mehak Sawhney, PhD student, McGill University
+Bernard Geoghegan, Senior Lecturer in the History and Theory of Digital Media, King's College London
+Sriram Mohan, PhD candidate, Communication and Media, University of Michigan
+Keith O'Hara, Associate Professor of Computer Science, Bard College
+Dorothy Roberts, University Professor of Africana Studies, Law & Sociology, University of Pennsylvania
+Felix Stalder, Professor for Digital Culture, Zurich University of the Arts
+Ana María Ochoa, Professor, Department of Music, Columbia University
+Demetrius Davis, PhD candidate, Virginia Tech
+Erik Wijmans, PhD Student, Georgia Institute of Technology
+Nanna Bonde Thylstrup, Associate Professor , Copenhagen Business School
+Christopher Coenen, Karlsruhe Institute of Technology
+Dr. Marcel Bollmann, Researcher and MSCA Fellow, University of Copenhagen
+Ky Grace Brooks, PhD Candidate, McGill University
+Pierre-Alexandre Fournier, CEO Hexoskin
+Arlene Ducao, Instructor, NYU
+Alexander Trott - Senior Research Scientist - Salesforce Research
+Kyle DeCoste, PhD Candidate, Columbia University
+Álvaro Peris, PhDRob Arbon, Bristol University
+Diana M. Rodriguez, doctorate student, Columbia University
+Lauren Alexandra, Artificial Intelligence and Machine Learning Student at Colorado State University
+Brendan McQuade, Assistant Professor, Criminology Department, University of Southern Maine
+Ahmed Ansari, Industry Asst. Professor, NYU Tandon
+Kendra Albert, Clinical Instructor, Harvard Law School
+Gavin Steingo, Associate Professor, Princeton University
+Subho Majumdar, Senior Inventive Scientist, AT&T Labs Research
+Steve High
+Lauren Hay, Graduate Student, University at Buffalo (SUNY)
+Burcu Baykurt, University of Massachusetts Amherst
+Jason Edward Lewis, University Research Chair, Concordia University
+Chris Peterson, MIT
+Micalyn Struble, Undergraduate student of Computer Science, Duke University
+Brendan Chambers, Applied Research Scientist, QuillBot
+Kendra DelaCadena
+David Murphy, Postdoctoral Associate, MIT CTP
+Emiliano Falcon-Morano, Policy Counsel, ACLU of Massachusetts
+Samuel R. Bowman, Assistant Professor of Linguistics, Data Science, and Computer Science, NYU
+Laurent Najman, professor in machine learning, University Gustave Eiffel, France
+James Anthony, Software Developer, BASc Computer Science (McMaster University)
+Sam DiBella
+Daniel Greene, Assistant Professor if Information Studies, U Maryland
+Andrew Ó Baoill, Lecturer, School of English and Creative Arts, National University of Ireland Galway
+Laura Mamo, Professor
+Rahul Bhargava, Research Scientist, MIT Center for Civic Media
+Prof Chris Lintott, University of Oxford
+Julian Posada, PhD Student, University of Toronto, Canada
+Dan Saint-Pierre
+William R. Frey, doctoral student, Columbia University
+Lassana Magassa
+Jordan Jackson
+Christopher Marks, Data Scientist
+Natália da Silva Perez, Centre for Privacy Studies, University of Copenhagen
+Christian Hudon
+Maria Sobrino, undergraduate student, University of Michigan
+Derek Arnold
+Marc-Anthony Brooks Snead II
+Jay D. Aronson, Director, Center for Human Rights Science, Carnegie Mellon University
+Barbara E. Bullock, Professor, University of Texas
+Lauren Chambers, Technology Fellow, ACLU of Massachusetts
+Robin L. Zebrowski, Assoc. Professor of Cognitive Science, Beloit College
+Indrapramit Das, author
+Dr. Kaitlin Stack Whitney, Assistant Professor, Science, Technology & Society, RIT
+Sandeep Mertia, PhD Candidate, New York University
+Jacob Ratliff, UX Researcher/Designer in AI
+Grace Abuhamad
+Venkatesh Srinivas, Software Engineer, Google
+CJ Valasek, Lecturer, University of California San Diego
+Ana Brandusescu, Professor of Practice, McGill University
+David R. Ambaras, Professor of History, North Carolina State University
+Jeremy Crampton Professor Newcastle University
+Michael Perry
+Rhema Linder, Ph,D Human-Computer Interaction
+Dr DL Clements, Imperial College London
+Hal Daumé III, Professor, University of Maryland and Sr Principal Researcher, Microsoft Research
+Jason Bowen, Columbia University
+Sarah Semel
+Dr. Kevin M. Hines - Cornell University
+Shea Brown, Lecturer, Department of Physics & Astronomy, University of Iowa
+Tim Schwartz, Los Angeles Cryptoparty
+Denise McLane-Davison, Assoc. Professor of Social Work, Morgan State University
+Tim A. Miller, SVP Engineering, Quizlet
+Professor Tom Buchanan
+Travis Hall, PhD
+Mar Hicks, Illinois Institute of Technology
+Sarah Appleby, PhD student, University of Edinburgh
+Madeleine Maxwell, Researcher, Independent
+Cindy Lin Kaiying, PhD Candidate, University of Michigan, Ann Arbor
+Rachel Bergmann, Social Media Collective, Microsoft Research New England
+Seth Erickson, Assistant Librarian, Penn State
+Charles Logan, Educational Technologist, The Ohio State University
+Sophia Searcy, Executive Director of Product, Metis
+Harini Suresh
+Louis Gomez, Stevens Institute of Technology
+Sreeja Kondeti, Health Policy MPH Candidate, Yale University
+Carlos Scheidegger, University of Arizona
+Teresa Heffernan, Professor, Saint Mary's University
+Dorothea Salo, Distinguished Faculty Associate, UW-Madison Information School
+Emma McKay, York University
+Aakash Gautam, PhD candidate, Virginia Tech
+Amanda Cercas Curry, PhD Student, Heriot-Watt University
+sava saheli singh, Postdoctoral Fellow, Department of Criminology, University of Ottawa
+Nikki L. Stevens, PhD Candidate, Arizona State University
+Dana Wheeler, engineer
+Vince Fong
+Dr. Elizabeth Henaff, Assistant Professor, NYU Tandon School of Engineering
+Gabriel Grill, PhD Student, University of Michigan - School of Information
+Artie Vierkant
+Crystal Lee, PhD candidate, MIT
+Nina Lutz Graduate Student MIT
+Ashley Shew, Assistant Professor, STS, Virginia Tech
+Dr. Elinor Carmi, Research Associate at Liverpool University, UK
+Nicholas Selby, Graduate Student, MIT
+Steven Clark, Online Course Facilitator, University of South Australia
+Alexander Criswell, PhD Student in Astrophysics, University of Minnesota
+Dan Lockton, Imaginaries Lab, Carnegie Mellon University
+Jessica F Cantlon, Associate Professor, Carnegie Mellon University
+Matt Nish-Lapidus, University of Toronto
+David C. Sorge, Doctoral Candidate in Sociology, University of Pennsylvania
+Amandalynne Paullada, PhD Candidate, University of Washington
+Emma Strubell, Assistant Professor, Carnegie Mellon University
+Nate Beard, PhD Student, College of Information Studies, University of Maryland
+Daniel Nkemelu
+Nadine M. Finigan-Carr, PhD; Research Associate Professor; University of Maryland, Baltimore
+Gabriel Teninbaum, Assistant Dean of Innovation, Strategic Initiatives, & Distance Education; & Professor of Legal Writing; Suffolk University Law School
+Aashka Dave, Researcher, MIT Center for Civic Media
+Ken Holstein, Assistant Professor, School of Computer Science, Carnegie Mellon University
+Andrew McStay, Prof., Bangor University
+Aldo Ahkin Barrera-Machuca, MSc, Simon Fraser University
+Dr Michael Dempster, MNeuro, MSci, PhD
+Mohamed Sofiene Kadri
+Benjamin Winokur, York University
+Matt May, Head of Inclusive Design, Adobe
+Dr. Catherine Stinson
+Jesse Josua Benjamin, PhD Student, University of Twente
+Trent Fulton
+Ludovic Righetti, Associate Professor, New York University
+Alex Bigelow, Data Science Fellow / Postdoctoral Researcher, University of Arizona
+Christian Szegedy, AI researcher
+Nancy Baym, Sr Principal Researcher, Microsoft
+Tim Highfield, Lecturer in Digital Media & Society, University of Sheffield
+Gabriella Coleman, Wolfe Chair in Scientific and Technological Literacy McGill University
+Fernando Diaz, Senior Principal Researcher and Assistant Managing Director, Microsoft Research Montréal
+Petros Terzis, PhD student, University of Winchester Oskar Austegard
+Benjamin Wolf, Senior Software Engineer, Google
+Aaron Clauset, Associate Professor of Computer Science, University of Colorado Boulder
+Erik Harpstead, Systems Scientist, Carnegie Mellon University
+Laurent Dinh, Research Scientist, Google Brain
+Tim O'Brien, GM AI Programs, Microsoft
+Ananya CHAKRAVARTI, Associate Professor, Georgetown University
+Sajid Ali, PhD Candidate, Northwestern Univ.
+Hilde Weerts, Research Engineer, Eindhoven University of Technology
+Manasvin Rajagopalan, PhD Student in Comparative Literature, UC Davis
+Damien Patrick Williams, PhD Candidate in Science, Technology, and Society at Virginia Tech
+Georgios Bakirtzis, PhD Candidate, University of Virginia
+Devon Persing, Accessibility Specialist, MS in Information
+Lindsay Weinberg, Clinical Assistant Professor, Purdue University
+Kathryn Kosmides, CEO, Garbo
+Ellen Wondra
+Pauline van Mourik Broekman, PhD student, RCA, London and co-editor, Mute magazine
+Frank Edwards, Rutgers University
+William Pettersson, Research Associate, University of Glasgow
+Aviel Roshwald, Professor of History, Georgetown University
+Neal Patwari, Professor of Electrical Engineering and Computer Science
+Dennis Boella North, Mr., (Retired Public Sector IT Consultamt)
+A Knuppel, Visiting Assistant Professor, Lawrence University
+Mounaim Zaryouhi, Software engineer
+Stephen P. Smith, PhD, Michigan State University, Retired,
+Gary Weissman, MD, MSHP, Assistant Professor of Medicine, University of Pennsylvania Perelman School of Medicine
+AJ Alvero, PhD Candidate, Stanford University Graduate School of Education
+B. D. R. Bogart, PhD
+Robert Soden, Columbia University
+Jacob John Jeevan, CS MS
+Arthur Borem, Software Engineer
+Julian Michael, Phd Candidate, University of Washington
+David A. Banks, co-chair, Theorizing the Web
+Paul Dourish, Professor of Informatics, University of California Irvine
+Annie Zhang, Software Engineer
+Paul Roquet, Associate Professor, Comparative Media Studies, MIT
+Anjana Vakil, Software Engineer & Educator
+Ashleigh Thomas, MS student in Genetics and Genomics UC Davis; BS Computer Science Johns Hopkins University
+Yoehan Oh, PhD student, Department of Science and Technology Studies, Rensselaer Polytechnic Institute (RPI)
+Kate Kadash-Edmondson, PhD
+H. Malik
+Rachel Douglas-Jones, Associate Professor of Anthropological Approaches to Data and Infrastructure, IT University of Copenhagen Denmark
+Jentery Sayers, Associate Professor, University of Victoria
+Sarah Deutsch, Attorney and Board Member, Electronic Frontier Foundation
+Jeannette Bohg, Assistant Professor, Stanford
+Aaron Harrison
+Alexis Logsdon, Digital Scholarship Librarian, University of Minnesota Libraries
+Liz B. Marquis, PhD Candidate, University of Michigan School of Information
+Stephanie T. Douglas, Astronomer
+Schalk Steyn
+Lucia Donatelli, Postdoctoral Researcher, Saarland University
+I. Elizabeth Kumar, PhD Student, University of Utah School of Computing
+Oz Amram, PhD Student, Johns Hopkins University, Physics Department
+Jackson Wright
+Adji Bousso Dieng
+David Cecchetto, Associate Professor, York University (Canada)
+Mahdi Cheraghchi, Assistant Professor, University of Michigan
+Zachary Furste, Postdoctoral Fellow in Software Curation, Carnegie Mellon University
+Miss Rachel Silvester Williams (University of Glasgow)
+Britt S. Paris - Assistant Professor of Library and Information Science, Rutgers University
+Melinda Sebastian, Postdoctoral Fellow, Syracuse University
+Chiara Addis, PhD candidate, Salford Business School
+Kai-Hsin Hung, HEC Montreal
+Sefa Ozalp, Lead Data Science Researcher, HateLab, Cardiff University
+Rushi Shah, CS PhD student at Princeton's CITP, JD student at Harvard Law School
+Elena Razlogova, Associate Professor of History, Concordia University, MontrealDr Andrew Wood
+Balazs Bodo, social scientist, University ofAmsterdam
+Dan Rubins, CEO, Legal Robot
+Krishna Venkatasubramanian, Assistant Professor, University of Rhode Island
+Phillip Kuznetsov, Software Engineer, Pixie Labs
+Priya C. Kumar, PhD Candidate in Information Studies, University of Maryland-College Park
+Amy Isard, University of Hamburg
+Adji Bousso Dieng
+Jacob Wolf
+Brenda Ruch
+Alexander Ronald Altman, Graduate Student, University of Illinois at Urbana-Champaign
+Taylor C. Nelms, Filene Research Institute
+Binh Phan
+David Eadington
+Josh Guberman, PhD Student at the University of Michigan School of Information
+Lynne Goerner, Software Engineer, Google
+Lucy Archer, Technologist, Cambridge Consultants
+Sandra Milosevic
+Miguel Rodriguez Basalo, psychologist, graduated on Universidad Complutense de Madrid
+Julia Mendelsohn, PhD Student, University of Michigan
+Samuel Klinkenborg
+Matthew Guzdial, Assistant Professor, Computing Science Department of the University of Alberta
+Takeshi Takahashi
+Dr. Marc Schulder, Hamburg University
+Julien Girard-Satabin, PhD student in Artificial Intelligence Safety, CEA LIST/ INRIA
+Alicia Jarvis
+Laura South, PhD Student, Northeastern University
+Khalid El-Arini, Facebook
+Kai Caspar - Biologist, PhD student at University of Duisburg-Essen, Germany
+Hana Marčeteić
+Yen-Chia Hsu, Project Scientist, Carnegie Mellon University
+Seny Kamara, Associate Professor, Brown UniversityGeoffrey Lehr
+Mike Ananny, Associate Professor, Annenberg School for Communication & Journalism, University of Southern California
+Gemma Milne, journalist & author of Smoke & Mirrors: How Hype Obscures the Future and How to See Past it
+Yuriko Furuhata, Associate Professor, McGill University
+Davide Nunes, University of Lisbon, Portugal
+Adam Summerville, Assistant Professor, Cal Poly Pomona
+Kathryn Spiers, Committee on Liberatory Information Technology
+Asia Minor
+Cynthia Taylor, Assistant Professor, Oberlin College
+Michael Champlin, Experience Designer
+Dr Nick Rush-Cooper, Newcastle University (UK)
+Alexander D'Amour, Research Scientist, Google
+Roland Crosby
+Nathan Jurgenson, Co-Founder and Co-Chair of Theorizing the Web
+Dr. Luke Dicken, Director of Applied AI, Zynga Inc.
+Vivek Gupta, Graduate Student, University of Utah
+Kathleen McDermott, Industry Assistant Professor, NYU Tandon School of Engineering
+Myle Ott, AI Researcher, Facebook AI Research
+Andrew Drozdov (PhD Student, University of Massachusetts Amherst)
+Kyle Montague, PhD Northumbria University
+Karan Balaji
+Benjamin VanderSloot, Assistant Professor, University of Detroit Mercy
+Houda Lamqaddam, PhD student, KU Leuven
+Matthew Puentes, Graduate student, WPI
+Aaron Welsher, Developer
+Colin Fredericks, Sr. Project Lead, Harvard University
+Oz Blake
+Ani Nenkova, Associate professor, University of Pennsylvsnia
+Jordan Harrod, PhD Student, Massachusetts Institute of Technology
+Ian Goldberg, Canada Research Chair in Privacy Enhancing Technologies, University of Waterloo
+Seth Johnson
+Max Maass, PhD Student, TU Darmstadt
+Rey Arndt
+Patrick Thomson, Senior Research Engineer, GitHub, Inc.
+Sebastián Herrera Gaitán. Sociologist, Universidad Nacional de Colombia.
+Jiri Zlatuska, Faculty of Informatics, Masaryk University, Brno, Czech Republic
+August Taylor, Computer Science Student, University of Oxford
+Shayla Nikzad, PhD Candidate, Stanford Chemical Engineering
+Alexandra Schofield, Assistant Professor, Harvey Mudd College
+Becca Ricks, Researcher, Mozilla Foundation
+Dr Shawn Graham, Professor of Digital Humanities, Carleton University
+Chinasa T. Okolo, Cornell University
+Volha Litvinets, PhD student, Sorbonne University
+Dr. Jonathan May, Research Assistant Professor, University of Southern California Information Sciences Institute
+Elias B. Khalil, Assistant Professor, University of Toronto
+Lundy Braun
+Elizabeth Resor, PhD Student UC Berkeley
+John Phillpot, Site Reliability Engineer, Google
+Jake Strang, Scientific Software Engineer, JHU/APL
+Mario Pecheny, Professor of Sociology of Health, University of Buenos Aires & CONICET
+René Mahieu, PhD candidate fundamental rights in the digital age, Vrije Universiteit Brussel
+Juliane Jarke, PhD, University of Bremen
+Carolyn Ten Holter, researcher, University of Oxford
+Samantha Kleinberg, Associate Professor, Stevens Institute of Technology
+Lily Xu, PhD Candidate, Harvard University
+Omiros Pantazis, machine learning PhD student at UCL
+Gillian R Hayes, Kleist Professor of Informatics, UC Irvine
+Martim Brandao, Post-Doctoral Researcher, King's College London
+Sara Woodbury, PhD student, William & Mary
+Ryan McMahon, Data Scientist, Google
+Tim Vaughan, Sr. Software Engineering Manager, Microsoft
+Landon Morrison, College Fellow, Harvard University
+Michael Madaio, PhD Candidate, Carnegie Mellon University
+Candace Ross, PhD Candidate, MIT CSAIL
+Joseph Renner
+Brittany Wills, Software Engineer, Twitter Inc.
+Hamid Eghbal-zadeh, PhD, Johannes Kepler University
+Edwin Brady, Lecturer, University of St Andrews
+Nicole Grove, Associate Professor, University of Hawaii at Manoa
+Gwyn Evans
+Melanie Mitchell, Davis Professor, Santa Fe Institute
+Haarman Nicolas, wine advisor
+Erwan Moreau (postdoc), Trinity College Dublin
+Mr. B. S. Herring
+Neil Ryan, University of Washington
+Roberto Iriondo, Carnegie Mellon University
+Colin Bayer; cofounder, anti software software club LLC; former staff, University of Washington Allen School of Computer Science and Engineering
+Dr. Mihaela Vorvoreanu, Microsoft
+Mikaela Meyer, PhD Student in Statistics and Public Policy, Carnegie Mellon University
+Andrew S. Hoffman PhD, Postdoctoral Researcher, Radboud University, the Netherlands
+Shivangi Narayan, PhD Candidate, Centre For Study For Social Systems, Jawaharlal Nehru University, New Delhi, India
+Cameron Raymond, University of Oxford
+Jenna Burrell, Associate Professor, UC-Berkeley
+Andrew Whalen, software QA tester
+Yong Xin Hui, graduate student, University of Pittsburgh
+Mannat Kaur, PhD candidate, TU Delft
+William Merrill, Predoctoral Young Investigator, Allen Institute for AI
+Jeremy Hyrkas, PhD student, UCSD
+Bhaskar Mitra, Principal Applied Scientist, Microsoft
+Jasmine Noonan
+Jaime Alvarez, Undergraduate Student, University of Texas Rio Grande Valley
+Benedikt Boecking, PhD Student, Carnegie Mellon University
+Eren Alay - Research Assistant - Stevens Institute of Technology
+Sarita Schoenebeck, University of Michigan
+Rebecca Nutter
+Wojciech Nawrocki, postdoctoral fellow, VU Amsterdam
+Prerana Sunkara, Activist, Gen Z
+Kevin Lobo
+Mike Marcin, Lead Programmer, Bethesda
+Stephanie Dick, History and Sociology of Science, University of Pennsylvania
+Joëlle Skaf, Staff Software Engineer, Google
+Kym Harbin
+Dr Sam Ladkin, University of Sussex
+Orestis Papakyriakopoulos, Technical University of Munich
+Jadynn Evans Lizzie Grosso
+Susan Mazur Stommen, Principal, Indicia Consulting
+Kristina M. Sawyer, PhD Candidate, UIC
+Enda Brophy, School of Communication, Simon Fraser University
+Owen Leddy, Ph.D. Student, MIT
+Caitlin Doughty, PhD Candidate, NMSU
+Xiaowei Wang, UC Berkeley, Logic MagazineGrace, a student
+Lauren Miller - Human - Earth
+James Alexander Feldman-Crough, Software Engineer
+Julia Bilby, student
+Jack Hester, Brown University
+Karrie Jackson
+Marco
+Erik Thomas-Hommer, SDE, Amazon
+B. B. Schieffelin, Professor, New York University
+Tekela Robinson
+Tara Maldonado
+Brandon Osborn, Doctoral Candidate, UC Irvine
+Tyler Lian
+Shannon Vallor, Baillie Gifford Chair in Ethics of Data and AI, University of Edinburgh
+Manny Patole, Project Manager, NYU
+Cindy Wolff
+Benjamin Gorman, PhD, Bournemouth University
+Johanna Strömberg, Uppsala University
+Manlin Yao, User Researcher
+Gemma Auxiliadora Morillas Cerezo
+Nate Ballarino, Entrepreneur
+Mariel Deluna
+Garreth Tigwell, Assistant Professor, Rochester Institute of Technology
+Clare Kim, Postdoctoral Associate, Washington University in St. Louis
+Christina Schoux Casey, Associate Professor, Aalborg University
+Elizabeth Donger, JD Candidate, NYU School of Law
+Mayra Duran, Industrial Engineer
+Shobita Parthasarathy, Professor, University of Michigan
+Jordan Holt, Director, LazLabs
+Stuart Wilson, Digital Engineer, Best Buy
+Thomas G. Dietterich, Professor (Emeritus), Oregon State University
+Krzysztof Chwała, Yale University
+Devin Kennedy, PhD // New-York Historical Society
+Lauren Morvin
+Vicky Zeamer, Design Researcher at IDEO
+Emilija Gagrčin, PhD candidate, Free University of Berlin
+Varoon Mathur, Technology Fellow, AI Now Institute
+Héctor Beltrán, Assistant Professor, MIT
+Brienna Rodgers
+Yvonne Lin, PhD Student, University of California, Berkeley
+Danielle Medellin, Data Scientist
+Cedric Whitney, incoming PhD, University of California - Berkeley
+Katherine Wolf, Doctoral Student, University of California at Berkeley
+Kat Sullivan, Visiting Industry Assistant Professor, Integrated Digital Media, NYU
+Anis Rahman, Department of Communication, University of Washington, Seattle
+Richard Tomsett, IBM Research Europe
+Clare DuVal, Data Analytics Intern
+Garrett Kelly
+Caroline Tracey, PhD Candidate in Geography, UC Berkeley
+Jenny Brennan, Researcher, Ada Lovelace Institute
+Nader Akoury, CS PhD Student, UMass Amherst
+Adrian Hayes, A concerned citizen
+Kate Devlin, Senior Lecturer/Assoc Prof in Social and Cultural Artificial Intelligence, King's College London
+Isaac Murchie, Senior Software Engineer, BenevolentAI
+Shreeharsh Kelkar, Lecturer, Interdisciplinary Studies, University of California, Berkeley
+Joshua Delman, Director of Engineering at Snaps Media, Inc.
+Kumar Ramanathan, PhD candidate in Political Science, Northwestern University
+Dr Matt Luckcuck, University of Liverpool
+Professor Matthew Cobb, University of Manchester, author of The Idea of the Brain: The Past and Future of Neuroscience
+Jared M. Wright, PhD Candidate, Purdue University
+Courtney Denardo
+Gavin Jones
+Nina Solomun
+Chris Lavelle
+Darren Byler, Postdoctoral Research Fellow, University of Colorado
+Arica Tuesday, concerned citizen
+Landon Getz, PhD Candidate, Department of Microbiology and Immunology, Dalhousie University
+Chad Geidel, Software Developer IV, Colorado Department of Human Services
+Margaret Spires, Librarian, Utica College
+William Agnew, PhD Student, University of Washington
+Zachary Gill, Senior Game Developer
+Eric Moon, Senior Software Engineer, AquaSeca Inc
+Kadija Ferryman, PhD, Industry Assistant Professor, NYU Tandon School of Engineering
+David Russell, PhD Student at Oakland University
+Neil Bickford, Developer Technology Engineer, NVIDIA Corporation
+Christoph Becker, Associate Professor of Information, University of Toronto
+Madelyn Fetzko, Jr Art Director, Edelman
+Vlad Niculae (post-doc, Instituto de Telecomunicações, Portugal)
+Rowan Hampton
+Phoebe Campbell
+Julia Dressel, Co-author of "The accuracy, fairness, and limits of predicting recidivism"
+Fernanda Barrientos, estudiante de biomedicina
+Daniel Shiffman, Associate Arts Professor, ITP/IMA, New York University
+Rashida Richardson, Director of Policy Research, AI Now Institute
+Josh Faust, CTO, Torch 3D
+Valentina Fuentealba-Fernández, Biomedical Engineering Student, Universidad de Concepción.
+Julie Carpenter, PhD, Research Fellow, Ethics + Emerging Technologies group
+Hannah Beierman
+Ash Brent-Carpenter
+Chris Miller
+Ryan S Moss
+Lizzie Turbett, BS Nutrition & Dietetics
+Brad Berkemier, Security Researcher
+Chris Miller
+Nadia Wendt
+Lauren Wolfe (Research data specialist at Fred Hutchinson)
+Will Payne, Ph.D. Candidate, Geography (and New Media), UC Berkeley
+Alexandra Nilles, PhD Candidate, UIUC
+Maria Annichia Riolo, Postdoctoral Researcher, Santa Fe Institute
+Aya Selman
+Asa Kalish, Undergraduate, Washington University in St. Louis
+Giovanni Campagna, PhD Candidate, Stanford University
+Roya Pakzad, Taraaz
+Dr Khalil Thirlaway, NHM
+Katie Latimer, PhD student, UC Berkeley
+Joe Near, Assistant Professor, University of Vermont
+Rhys Goodall, University of Cambridge
+Zachary Katz, Engagement Manager, Recidiviz
+Constanza Vásquez, M. Sc. (C) in Computer Science, Universidad de Concepción
+Zach F.
+Emma Stamm, Ph.D, Instructor, Virginia Tech Department of History
+John F Dickson
+Dr. Alex Ketchum, Institute for Gender, Sexuality, and Feminist Studies of McGill University
+Dr Jennifer Andrew, trade union researcher
+Aaron Karper, Software Engineer
+Sam Kluck
+Kade Keith, Stanford University
+Callie, Undergraduate Student, Washington University in St. Louis
+Abigail Swenson
+Rosamond Thalken, PhD Student, Cornell University
+Catherine Cronin, PhD, National Forum for the Enhancement of Teaching and Learning in HE
+Georgina Garcia, Ms.
+Ulrich Junker
+Elena Maris, Postdoctoral Researcher, Microsoft Research
+K. Philip
+Corrado Monti, Postdoctoral Associate, ISI Foundation, Italy
+Nawaf Al-Rashid
+Prof Elizabeth Lawrence
+Juniper Jackson
+Katy Weathington, PhD Student, University of Colorado Boulder
+Pippa Hough
+Francesca Loiodice, Student, Barnard College
+Arthur Barbosa Câmara, PhD candidate TU Delft
+Christina Dunbar-Hester, Associate Professor, Communication, University of Southen California
+Connor P. Jackson, PhD Student, Agricultural and Resource Economics, UC Berkeley
+Kerry Magruder, History of Science, University of Oklahoma
+Herald Guinto
+Djoerd Hiemstra (Radboud University)
+Nushin Yazdani, Interaction Designer and Artist
+Carla Soto, student, Universidad de Concepción
+Dante O'Hara, Ph.D., postdoctoral researcher, US Naval Research Laboratory
+Aneesh Naik, machine learning developer, MIT
+Gerardo Salazar
+Katie Burke
+Jordan T. Thevenow-Harrison
+Colin Caver
+Kipper Fletez-Brant, Computational Biologist
+Dorsey Winchester
+Lorraine Floyd
+David Fussichen, CEO, Analytics8
+Jacob Certain, Software Engineer
+Amy Elizabeth Manlapas
+Vytaute Kedyte
+Shauna Gordon-McKeon
+Abhijat Biswas, PhD Student, Carnegie Mellon University
+Lynn Rodriguez
+Armen Enikolopov, PhD
+Elan Simon Parsons, Data Manager, Center for Open Science
+Roshan Pokharel
+Christopher Vergara, BME Student, Universidad de Concepción
+Edward Hilfstein
+Ari Edmundson, PhD, UC Berkeley
+Devin Johnson, PhD Student, McMaster University
+Donald E. Goodman-Wilson, PhD, Katsudon.tech
+Sheena MacRae, PhD student, University of Hull
+Ashleigh Poe
+Cesar Clavijo
+Ofer Idan, CTO, Carbon Relay
+Zachary Talis, Undergraduate, Rochester Institute of Technology
+Dan Herrera
+L Balstad, Student
+Glenn Ellis, MPH, CHCE
+Joshua Zane Weiss, UC Davis PhD Candidate in Cultural
+Anthropology/Science and Technology Studies
+Phillip Gara, MIT Alum
+Pallavi Mishra-Kalyani
+Mat Leonard, Senior AI Research Engineer
+Şerife Wong, Icarus Salon
+Sophie Burstein
+Morgan
+Romi Ron Morrison, PhD candidate, USC
+David Lyttle, Computational Biologist
+Wells Lucas Santo, former Education Manager at AI4ALL & advisory board member at AI4K12
+Bruno Perreau, Cynthia L. Reed Professor of French Studies, Massachusetts Institute of Technology
+Sarah Rico
+Kate Sim, PhD Researcher, Oxford Internet Institute
+Jordan Menter, Data Scientist
+Nathaniel Gloekler
+Jamal Rahman, Data Scientist, IBM
+Leah Perlmutter, PhD Student, Computer Science and Engineering, University of Washington
+Tim A. Miller, SVP Engineering, Quizlet
+Laurel Hechanova, Partner, Goodmaker
+TJ Roach, Student
+Samantha Breslin, University of Copenhagen
+Sebastian Schwemer, Associate Professor, Centre for Information and Innovation Law, University of Copenhagen
+Javier Valls Profesor University of Geanada Spain
+Gabriela Arredondo, Barnard College class of 2022
+Ekaterina Babintseva, Hixon Riggs Early Career Fellow, Harvey Mudd College
+Abhishek Deokar
+Julia Bullard, Assistant Professor, School of Information, The University of British Columbia
+Galen Harrison, PhD Student, University of Chicago
+Daniel Yoder, CEO, DashKite, Inc.
+Hunter Heyck, Professor of History of Science and Technology, University of Oklahoma
+Alex Feygin, Senior Research Specialist, VCU
+Mariya I. Vasileva, PhD candidate, University of Illinois at Urbana-Champaign
+Nicholas John, Senior Lecturer, Department of Communication and Journalism, The Hebrew University of Jerusalem
+Wouter Van Rossem, PhD Candidate, University of Twente, The Netherlands
+Cameron Bishop, Wesleyan University
+Eric Martini, Undergraduate, UCSC
+Vincent Léon, PhD
+Michael Rodgers, undergraduate CS major at the University of Washington
+Christopher Kelty, Professor, UCLA
+Harry Hochheiser, Associate Professor, Biomedical Informatics and the Intelligent Systems Program, University of Pittsburgh
+Mark Kaigwa, Founder of Nendo
+Gillian Grennan, RA, UC San Diego
+Dr. Merel Noorman, assistent professor, Tilburg Institute for Law, Technology and Society, Tilburg University, The Netherlands
+Paula Lago, PhD
+Alister McGrath, Applications Engineer
+Caroline Chan, Graduate Student, MIT
+Lilian de Greef, PhD in Computer Science
+Celeste Rita Baker
+Richelle Bixler
+Max Kreminski, PhD student, Expressive Intelligence Studio, UC Santa Cruz
+Supan Shah
+John Redden, Associate Professor, University of Connecticut
+Sean Vernon
+David Kogan, PhD Student, Institute of Mathematical Sciences, Claremont Graduate University
+Joshua Essex, CTO
+Bonnie Stewart, Assistant Professor, University of Windsor
+Jenny Tran
+Colin Schatz, Assistant Adjunct Professor of Computer Science, Mills College
+Jessica Burnett, Research Ecologist
+Jackie Brown, MES Candidate, York University
+Elaine Sarduy
+Jeroen Rooijmans
+Fahmida Joyti
+Rex Bennett
+Andrew Xiang, Dartmouth College
+Sylvain Neuvel, Ph.D.
+Arlene Haessler
+Wael AbdAlmageed, Research Associate Professor, University of Southern California
+Bharat Srikishan, PhD Student, Stevens Institute of Technology
+Darwin Gray, Black American Male, AmeriKKKa
+Casey Tisdale, Graduate Student, University of Nebraska-Lincoln
+Tonia Sutherland, Assistant Professor, University of Hawaiʻi at Mānoa
+Jack Harvey Boyd - LSE
+Vikram Mohanty, PhD Student, Virginia Tech
+Sarah Clinton-McCausland, Instructional Design Librarian
+David Ressler, Software Engineering Manager
+Douglas Schuler, professor emeritus, The Evergreen State College
+Michael McGovern, PhD Candidate, Program in the History of Science, Princeton University
+Dr Emma Norling, The University of Sheffield
+K. Supriya, Postdoctoral research associate, Arizona State University
+Kelly Rivers, Assistant Teaching Professor, Carnegie Mellon University
+Yoonsik Park
+Cydney K. Seigerman, PhD Candidate, University of Georgia
+Sands Fish, Designer (MIT)
+De Angela L. Duff, Associate Vice Provost and Industry Professor, NYU
+Lena Knezevic, Data Librarian
+Lydia Majure, PhD Electrical Engineering (UIUC '13), Union of Postdocs and Academic Researchers at Univ. Of California
+Tom Stepleton, Research Engineer, DeepMind
+John Mogensen, Director of Engineering
+Maria Axente, Director of Outreach AI Commons
+Tom O'Dea - Research Fellow - CONNECT, Trinity College, Dublin
+Micah Smith, PhD Student, MIT
+Aaron Plasek, Columbia University
+Nathanael Welford-Small
+Joseph Lee, Data Scientist, Capital One
+Jody Ranck, DrPH. Ranck Consulting/Krysalis Labs
+Lou Kratz, PhD
+Raphael Gontijo Lopes, Research Associate
+noopur raval
+Cynthia S. Hood, Associate Chair and Associate Professor of Computer Science, Illinois Institute of Technology
+Danielle Rivera
+Ethan Acosta
+Guilherme Peixoto, MSc. student, Comp Sci at Federal University of Pernambuco - Brazil
+Blake Durham
+Helen Bergstrom, PhD Student, University of California at Berkeley Chemical Engineering
+Dashiell Stander, Data Scientist, Zuora
+Joseph Redmon, University of Washington
+Josh Honn, English & Digital Humanities Librarian, Northwestern University
+Debbie Myers Alexander
+Katie Cording, Neuroscience PhD Candidate, UC Berkeley
+Joshua Jones, PhD Fordham University
+Heidi Goodson, Assistant Professor of Mathematics, Brooklyn College (City University of New York)
+Holly Gildea, Graduate Student, UC Berkeley
+Nabeel Sherazi, R&D Software Engineer, Autonodyne LLC
+Mark S Baldwin, PhD Candidate, University of California, Irvine
+Edson Prestes, Professor, Informatics Institute, Federal University of Rio Grande do Sul, Brazil
+Michelle Lam
+Chris Given, Civic Technologist
+Eran Toch, Ph.D., Tel Aviv University
+Juan David Osorio, freelance machine learning engineer
+Biljana Rolih, PhD in Chemistry, works as Machine Learning Engineer
+Matt Crosslin, Researcher, University of Texas at Arlington
+Aishwarya Mandyam, PhD Student, Princeton University
+Matt Ratto, Faculty of Information, University of Toronto
+Rob Davidson, Data Scientist
+Steve Easterbrook, Professor of Computer Science, University of Toronto
+Celine Latulipe, Department of Computer Science, University of Manitoba
+Mercedes Bunz, Senior Lecturer in Digital Society, King's College London
+Robert Vargas - Associate Professor of Sociology, University of Chicago
+Dr. Udo Baumgartner
+David Oswald, Senior Lecturer in Computer Science, The University of Birmingham, UK
+Jonas Betzendahl, M.Sc., Knowledge Management and Representation, FAU Erlangen-Nürnberg
+Owen Dwyer, Lancaster University
+David Rannis
+Elizabeth Wood, Professor, MIT
+Haley Bryant, PhD Student, University of Toronto
+Joseph A Riddle, BS/MEng Chemical Engineering, JB Speed School of Engineering at the University of Louisville
+Professor Sherry Turkle, Program in Science, Technology, and Society, MIT
+Mark Mir, PhD Student, Stevens
+Abigail De Kosnik, Director of the Berkeley Center for New Media and Associate Professor, UC Berkeley
+Courtney E. Thompson, Assistant Professor of History, Mississippi State University
+Lisa Parks, Professor of Comparative Media Studies, MIT
+Luke Macomber
+Labeeb Ibrahim, Independent Data Scientist
+Marianne Gunderson, PhD Candidate in Digital Culture, University of Bergen
+Kassy Raymond, University of Guelph
+Jim Whitehead, Professor of Computational Media, University of California, Santa Cruz
+Di Wu, PhD student, MIT
+Tian Ning, Graphics Programmer, Unity Technologies
+Elisa Hayes
+Crystal Song, PhD Student, UC Berkeley, Performance Studies
+Kylie Owens
+Newton Barbosa
+Wolmet Barendregt, Ph.D. Eindhoven University of Technology
+J. Fernando Hernandez-Garcia, Ph.D Student at the RLAI Lab at the University of Alberta
+Rachel Fox, PhD Candidate, UC San Diego
+Jamie Wong, PhD Candidate, MIT
+Gavin Kerrigan, PhD Student, UC Irvine
+Sandy Alexandre, MIT
+Siim K
+Leah Simon; M.A.; UC Berkeley
+Rohith Karthikeyan, PhD student, Texas A&M University
+William Deringer, Associate Professor, MIT
+Clancy Wilmott, University of California, Berkeley
+Sandy Huang, Student/Government Employee, University of Alberta
+Shobhit Hathi, Applied Research Scientist, Microsoft
+Erick Galinkin - Principal AI Researcher, Rapid7
+Erin Smith
+Emily Hamner, Associate Director, Community Robotics Education and Technology Empowerment (CREATE) Lab, Carnegie Mellon University
+Tushar Sawant, Software Engineer, Cognex Corporation
+Tamara Kneese, Assistant Professor, University of San Francisco
+Jefrey Lijffijt, Professor, Ghent University
+eb saldaña, doctoral candidate, princeton university
+Alex Rewegan, MIT Program in Science, Technology and Society
+Shubham Atreja, PhD Student in Information, University of Michigan School of Information
+Alejandra Decker, PhD Student, UC Berkeley
+Heather Paxson, Professor of Anthropology, MIT
+Bradford Demarest, Student, Indiana University Bloomington
+Chloe Fields
+Christopher J. Persaud, PhD Student, USC Annenberg School for Communication and Journalism
+John Wilson, BA in math and physics
+Adam Bursi, Postdoctoral Researcher, Utrecht University
+Kristin Ellis, Entrepreneur In Residence, Carbon180
+Matthew Ellis, Modern Culture and Media, Brown University
+Pratyush Mishra
+David Mindell, Professor of the History of Technology and Aerospace Engineering, MIT
+Tawana Petty, Data Justice Director, Detroit Community Technology Project
+Simon Lacoste-Julien, Associate Professor, Canada CIFAR AI Chair, co-founding member of Mila, Université de Montréal
+Jared Pettitt, PhD Student of Computational Media at University of California, Santa Cruz
+Moe Sunami, Pomona College, B.A. Mathematics '21
+Haniel Alcântara, Undergraduate Mathematics Student, Rensselaer Polytechnic Institute
+Larisa Kingston Mann, Assistant Professor, Media Studies & Production, Klein College, Temple University, PA, USA
+Yves Moreau, Professor, University of Leuven, Belgium
+Kateari Try
+Miguel Ramos
+Hebah Emara, Adult/Information Services Librarian, Elizabeth Public Library
+Dorothy R. Santos, PhD Student, University of California, Santa Cruz
+Julia M. Wright, University Research Professor (Dalhousie University)
+Peter Polack, PhD Candidate, UCLA Department of Information Studies
+Varun Nasery, Facebook
+Rita N. Soni, Public Interest Technologist
+Dr. Diana Kamin, Lecturer, Communications and Media Studies, Fordham University, New York
+Khimya Khetarpal
+Henry Wolf VII, Researcher, Facebook
+Dr. Jörg Rings, Senior Data Science Manager, Capital One
+Ari Anisfeld, PhD Student, University of Chicago
+Noah Gribbin
+Stefanie Betz, Professor, Socioinformatics, Furtwangen University
+Ana Carolina de Assis Nunes/Oregon State University
+Eric Jackson
+Janet van Bilsen - Student at King's College London
+Whitney Laemmli, Assistant Professor, Carnegie Mellon University
+Erhardt Graeff, Assistant Professor of Social and Computer Science, Olin College of Engineering
+Andrew Strait, Ethics & Policy Researcher, DeepMind
+Vasundhara Gautam, Speech Recognition Engineer, Dialpad
+Jordan Coursey, UC San Diego
+Matthew Whitrock, Principal Software Engineer, MLB
+Basil Philipp, CEO & Co-Founder Genistat AG
+Hank Hester, GitHub Software Engineer
+Eli Schlossberg - PhD Candidate, University of Minnesota
+Gracie
+Marissa
+Joan Mukogosi, New York University
+Lilian Liang, Engineer, Apple
+Tej Kohli - Concerned Citizen
+Dominic Canare, Wichita State University
+John Gilling, Principal Data Scientist, Capital One
+Richard Fadok, doctoral student, MIT
+Jason Grinblat, Research Artist, Freehold Games
+Ana Valdivia
+Olli Parviainen
+Jaci Wilkinson Head, Discovery and User Experience Indiana University
+Daniela Rosner, Associate Professor, University of Washington
+Bryce Neuman, RESET, MCTS, TUM, 2020
+Dr. Michael Cook, Queen Mary University of London
+Katie Vann, Earth
+Megan Rim, PhD Candidate, University of Michigan
+Valeria Barra Pradenas
+Jonathan A. LLoyd, Virginia Tech Department of Sociology
+Christopher Mann MSc MIoP MIET
+Britt Bolen, Architect, IBM Cloud
+John Grey, PHD candidate, UCSC
+Sharif Corinaldi, Engineer, Stripe
+Chris Schilling, Program Officer, Wikimedia Foundation
+Erik Osheim, Staff Engineer, Stripe
+Jasmijn Bastings, MSc, UvA
+Henry Shen, Associate Software Engineer, Capital One
+Sofia Gutierrez-Dewar, UC Berkeley
+Josh Simons, Harvard University
+Johan Persson, MSc CS Eng
+John Howard, Computer Scientist
+Stephanie Sadre-Orafai, Associate Professor of Anthropology, University of Cincinnati
+Andrew Clement, Professor (emeritus), Faculty of Information, University of Toronto
+Bradley Gram-Hansen University of Oxford
+Jennifer Lieberman, University of North Florida
+Keiran Thompson, Research Scientist, Stanford Universty
+Beth Coleman, Associate Professor ICCIT/Faculty of Information, University of Toronto
+Jordan Meyer, Senior Applied Scientist (Machine Learning), Zillow
+Dr Stephane Lallee, Solutions Engineer R&D, Facebook
+Mallory J. Feldman, Doctoral Student, UNC-CH
+Laura Finch, Assistant Professor, MIT
+Michael Giancola, PhD Student, Department of Computer Science, Rensselaer Polytechnic Institute
+David Marcovitz, Associate Professor of Educational Technology, Loyola University Maryland
+Vignesh Ganapathy
+Franchesca Spektor, PhD Candidate, Carnegie Mellon University
+Taylor Gobar
+Bernhard Werner, PhD, Technical University of Munich
+Brandon Haworth, Post-Doc, York University
+Sheila R. Roberts, retired prison literacy coordinator
+Toy Reid, Capital One
+Christopher Dancy, Assistant Professor, Bucknell University
+Adonis M, Tech Ops
+Sophie Wang, Free Radicals
+Tess Posner, CEO, AI4ALL
+Helen Toner, Georgetown University
+Carina C. Zona
+Gopal V, Engineer
+Professor Natalia Levina, New York University
+Jamie Manolev, PhD researcher, University of South Australia
+Matt Luciw, Principal Scientist, Neurala
+Mia Rettler
+Madeleine Chang, Graduate Student, University of Oxford
+Nicole Pagowsky, Associate Librarian, University of Arizona
+Elly R. Truitt, Associate Professor, University of Pennsylvania
+Dr Rachel Buchanan (Senior Lecturer in Equity and Edtech), School of Education, University of Newcastle, Australia
+Annie Pompa, CS student, Indiana University-Bloomington
+Shiwali Mohan, Senior Member of Research Staff, Palo Alto Research Center
+Dahlia Peterson, researcher, Georgetown University
+Melchor Dominguez
+Brian Millar, co-founder, Paddle Consulting
+Catherine Provenzano, UCLA
+Natalie Schluter, Senior Research Scientist (Google Brain) and Associate Professor (IT University, Copenhagen)
+Dr Anna Denejkina, Western Sydney University
+Michael Scott, Data Scientist
+ally chouinard
+Nick Montfort, Professor of Digital Media, MIT
+Roberto Confalonieri, Assistant Professor, Free University of Bozen-Bolzano
+Caroline Hsu, Solutions Architect
+Christine Walley, Professor of Anthropology, MIT
+Abigail Jacobs, Assistant Professor, University of Michigan
+Jennifer Seevinck
+Kai Middlebrook, AI researcher, University of San Francisco
+John P. Dougherty, Associate Professor of Computer Science, Haverford College
+Syahadah Shahril, University of the Arts London
+Delip Rao, VP of Research, AI Foundation
+Armen Aghajanyan, Research Scientist
+Darius Gourdine
+Anastasia Ostrowski, Graduate Student, Massachusetts Institute of Technology
+Maria Pettis, PhD Student, UC Berkeley Department of Geography
+Jacob Quinn Shenker, PhD student, Harvard Medical School
+Jofish Kaye, Principal Scientist, Mozilla
+Shirley Lu
+Daniel Krashen, Professor of Mathematics, Rutgers University
+Bélgica Leslie del Río, PhD Candidate in Performance Studies at UC Berkeley on xučyun, the Unceded Territory of the Ohlone People
+Cindy Wang, Machine Learning Engineer, Sentropy
+Marissa Liu, Student, Western University
+Jameson Spivack, Policy Associate, Center on Privacy & Technology at Georgetown Law
+Anna D. Gibson, PhD Candidate, Stanford University
+Rochelle Terman, Assistant Professor of Political Science, University of Chicago
+Yelena Gluzman, PhD Candidate, UC San Diego
+Julia Menzel
+Cindy Ma, Doctoral Candidate, Oxford Internet Institute
+Alan Galey, Associate Professor, Faculty of Information, University of Toronto
+George Berg, Associate Professor, University at Albany - SUNY
+Cecelia Higgins, Graduate Student, University of California, Los Angeles
+Luísa Reis-Castro, PhD Candidate, MIT
+Nicolas Bedo, PhD
+Ellie Immerman, Ph.D. candidate, Massachusetts Institute of Technology
+Jennifer Fisk Rondeau, Ph.D. History, Cornell University
+Manasa Hegde, PhD Student, Texas A&M University
+Jessie J. Smith, PhD Student, University of Colorado Boulder
+Emily Schauer Brown, Media Relations, Revere
+Tania Fabo, MD-PhD Student, Stanford University
+Charles Pan
+Debjani Bhattacharyya, Drexel University
+Samantha Jo Fried, Postdoctoral Fellow & Program Manager, Tufts University
+Steven Gonzalez
+Matt Burns, Electrician
+Steven Gonzalez Monserrate, Massachusetts Institute of Technology
+Chris O, Engineer
+Jennifer A. Gonzalez, Professor, University of California
+Jacob Tuck
+Max Coleman, PhD Student in Sociology, Indiana University
+Alex Mine, student, UW Madison
+Ethan Myers
+Steve Trush, Research Fellow, UC Berkeley
+Joachim Valente, ML Engineer at Stripe
+David Dennis, Software Engineer, Jopwell
+Akshay Sarvesh, PhD student Texas A&M University
+Anurag Sarkar, PhD Candidate, Northeastern University
+R, Data Analyst
+Roban Hultman Kramer, Machine Learning Engineer
+Kevin Lemke
+Birgit Penzenstadler, Chalmers University of Technology, Sweden
+Deirdre K. Mulligan
+Natalie Davis
+Brian Callaci, Postdoctoral Scholar, Data & Society
+Warren Sack, Professor, University of California, Santa Cruz
+Amanda Damewood
+Nathan Partlan, PhD Candidate, Khoury College of Computer Sciences, Northeastern University
+Samantha Mack, Graduate Student, University of Oxford
+Philip Kan Gotanda Professor Dept of Theater Dance and Performance Studies UC at Berjkeley
+Cameron Trotter, PhD Student, Newcastle University
+Chris Lesser, PhD Candidate, UC Berkeley
+Eerke Boiten, Professor of Cyber Security, De Montfort University, UK
+Dr. Aditya Ramakrishna
+Meryl Bennett, visual artist
+Moritz Nipshagen, Grad Student for Neurotechnology at the Donders Institute for Brain Science
+Sashank Pisupati, Postdoc, Princeton University NJ
+Wyn Kelley, Senior Lecturer in Literature, MIT
+Laurel Riek, Associate Professor, Computer Science & Engineering, UC San Diego
+Vera Khovanskaya, graduate student, Information Science, Cornell University
+Kiona Niehaus, PhD Candidate, Goldsmiths, University of London
+Kathryn O'Nell, Oxford University
+Thomas Wouters, Software Engineer, Google
+Michael Dwan
+Sean Whelan Marcolini, Engineer
+MRI
+Karl Schmeckpeper, PhD Student, University of Pennsylvania
+Netia McCray, Executive Director, Mbadika
+grant tietjen, associate professor in department of sociology & Criminal Justice; Saint Ambrose University
+Rowyn McDonald, software engineer
+Katie Cording, Neuroscience PhD Candidate, UC Berkeley
+Hannah Weaver, Graduate Student, University of California, Berkeley
+Ruth Perry Ann Fetter Friedlaender Professor of Humanities, MIT
+Satyam Mohla, IIT Bombay
+Cesar Torres, Assistant Professor of Computer Science and Engineering, UT Arlington
+Margaret Wang
+Dr. Frédérik Lesage, Sinon Fraser University
+Eric Nichols, Dr.Eng.
+Manuela Luengas, PhD student, Columbia University
+João Guerreiro, Assistant Professor, University of Lisbon
+Angus Vos - Australian National University
+Fred Dyer, Professor, Michigan State University
+Dylan Baker, Research Software Engineer, Google
+Lina Kroehling, Bioinformatician, NYU
+Alana Jaskir, Graduate Student, Brown University
+Colin Gray, Assistant Professor, Purdue University
+hisham.bedri@gmail.com CTO Multiverse
+Lex Gill, Lawyer, Citizen Lab
+Eriq Augustine, PhD Student, UC Santa Cruz
+Emma Lurie, PhD student, UC Berkeley
+Sara Vannini, Lecturer, University of Sheffield
+Sarah Ingle, Ontario Digital Service
+John Fee, Mr., KPMG
+G. Gloria Collinsworth, Black woman with a son
+Michael J Frank, Professor, Director of the Center for Computational Brain Science, Brown University
+Blendi
+Vance Lockton, Manager - Digital Governance, Waterfront Toronto
+Jared Sager, Computer Science student, University of Utah
+Sarah Sibley, Industry Data Scientist
+Professor David Lovell, Queensland University of Technology Centre for Data Science
+Taseen Peterson
+Passion Terrell, Educator
+Rian Wanstreet, Mozilla Open Science Fellow, PhD Candidate at University of Washington
+Christina Walker
+Eric Boxer, Data Scientist
+Matthew Wigginton Conway, PhD candidate, Arizona State University
+Miguel Resendiz
+Gaurav Kumar student IIITA
+Duncan Jamieson, Culture Hub, UK
+Dr. Alina Selega
+Janna Huang, PhD student, UC Berkeley
+Caitlin van Hoffen, Librarian, AUT University
+Alex Dunbar
+Joe Makuc, Martin L. Levitt Fellow, American Philosophical Society
+Ranya
+Mona Khalil, Data Scientist
+Batu Aytemiz, PhD Student, University of California Santa Cruz
+Shion Guha, Assistant Professor, Department of Computer Science, Marquette University
+Dr. Lori Flynn, Software Security Researcher, SEI Carnegie Mellon University
+Elizabeth Pitts, Assistant Professor of English, University of Pittsburgh
+Dominique Mena, student, Georgia Tech
+Kevin Castro Riestra
+Victoria McIntosh
+David Rosario, Data Scientist
+Jonathan Cohen, Software Engineer, Google LLC
+Joe Gershenson, Engineering Manager, Stripe
+Publish It, Keep Wokeism Out of ML
+Lisa LaBrie RN, BSN, MAT
+Stephen James Guion, M.Sc., Independent Transdisciplinary Researcher
+Martin Forsythe, PhD, Machine Learning Scientist
+Brian Kinnee, PhD student, UW HCDE
+Sharan Banagiri, University of Minnesota
+Taylor Bailey, Doctoral Student, MIT
+Nicholas White, PhD Candidate, Caltech
+H. Andrew Lassiter, postdoctoral researcher, University of Florida, USA
+Thomas Markovich, Principal Scientist, Forge.AI
+Andrew Westbrook, Post-Doctoral Research Fellow, Brown University
+Clare Garvie, Senior Associate, Center on Privacy & Technology at Georgetown Law
+Luke Orland
+Catherine Tylan, DVM, Penn State PhD Student
+Katherine Dornian, Masters Student, University of Calgary
+Mario De Leon, Substitute teacher, LAUSD
+John Castillo, Geneticist, Florida International Univ
+Claire Sigworth, MS Applied Anthropology, Purdue University
+Tim A. Miller, SVP Engineering, Quizlet
+Daniel McDuff
+Azucena Roma
+Diego Alcala, Attorney
+Robin Burke, Professor, University of Colorado Boulder
+Addison Eldin, Graduate Student, University of Pittsburgh
+Suman Bose, Executive Board Member - The Futures Project, Berlin and Founder - GoFar Advisory & Investments, Singapore
+Baobao Zhang, Fellow, Berkman Klein Center for Internet & Society, Harvard University
+Veronica Moreno-Nestojko
+Pratyusha Kalluri, PhD candidate, Stanford Artificial Intelligence Lab
+Stuart Duncan, Masters student, Ryerson University
+Nicholas Shapiro, UCLA
+David Kaiser, MIT
+Piotr Wojcik, graduate worker, University of Kentucky
+Brendan O'Connor, Assistant Professor, University of Massachusetts Amherst
+Jenna Abrams
+Sina Fazelpour, Postdoctoral Fellow, Carnegie Mellon University
+Noura Howell, Assistant Professor, North Carolina State University
+Danielle Hone, Graduate Student
+David Kent, PhD Student, Cornell University
+Katherine Hepworth, Associate Professor of Visual Journalism, University of Nevada, Reno
+Nick Merrill, UC Berkeley
+Jeffrey Davis, PhD Student, Michigan State University
+Dr Sky Pod Croeser, Lecturer, Curtin University
+Steve Rogne, Director, Zen Shiatsu Chicago
+Jon Drobny, GRA, University of Illinois at Urbana-Champaign
+Pablo E. Paredes, Stanford University
+Gina Borgo, PhD candidate-Infectious Disease, UC Berkeley
+Aswin V P
+Nikhil Krishnaswamy, Assistant Professor of Computer Science, Colorado State University
+Nathan Wyche, Software Engineer
+J Smith
+Nicholas Zolman, Data Scientist, The Aerospace Corporation
+Jacob Metcalf, PhD, Data & Society Research Institute
+Tobias Pester
+Ricardo Eugenio Gonzalez Valenzuela
+Daniel C Howe, Assoc. Professor, School of Creative Media, Hong Kong
+dan calacci, phd student, MIT media lab
+Aaron Li
+Oscar Antonio Monroy Pérez, School of Philosophy and Letters UNAM
+Karen-Sue Taussig, Associate Professor and Chair, Department of Anthropology, University of Minnesota
+Seyi Olojo, PhD student, UC Berkeley
+Dr. Nicholas Taylor, North Carolina State University
+James Mitchell, Student, Worcester Polytechnic Institute
+Guy Hoskins
+Max Hatton
+Michael Dickard, PhD
+Sam Stein, PhD Student, Geography, UC Berkeley
+Varun Nagaraja, Applied Scientist, Amazon
+Gina Borgo, PhD candidate-Infectious Disease, UC Berkeley
+Fabienne Chan, Data Analyst
+Huw Rees, Graduate Student, University of Chicago
+Sima Belmar, UC Berkeley
+Thao Phan, Research Fellow, Alfred Deakin Institute for Citizenship and Globalisation
+Yonatan Bisk, Assistant Professor, LTI @ Carnegie Mellon University
+Josephine Hoy, University of Washington
+Nathan Edwards, special education teacher
+Yann LeCun, Professor, NYU & Chief AI Scientist, Facebook
+Christian Gorski, PhD student in Mathematics, Northwestern University
+Ashley Smith, Systems Engineer
+Christian Gorski, PhD student in Mathematics, Northwestern University
+Jana Robberechts, PhD, Vrije Universiteit Brussels
+Yarden As
+Kemal Davaslıoğlu
+Boyd Ruamcharoen, Graduate Student in History, Anthropology, and STS (HASTS), Massachusetts Institute of Technology (MIT)
+Ji Su Yoo, UC Berkeley School of Information
+Rua Ismail NLP Engineer
+Niki Martinel, Assistant Professor, University of Udine
+Joshua I Stern, Researcher, Harvard University
+Hashem Alsaket, Quantitative Researcher, Nielsen
+Rabindra Lamsal, Researcher, JNU
+Muberra Ozmen, PhD Student, McGill University
+Dr. Frédérique Krupa, Director of Machine Design Lab, l'école de design Nantes Atlantique
+Art Yerkes, Software Engineer
+Anmol Gulati, Research Engineer, Google Brain
+Humberto Virgüez, Psicólogo, Universidad Nacional del Colombia
+Judith Zimmermann, MS, TU Munich
+Abduallah Mohamed, PhD Student, The University of Texas at Austin
+Tiny Pang
+Rebecca Tabasky, Director of Community, Berkman Klein Center for Internet & Society at Harvard University
+J Paul Gibson, Telecom Sud Paris, France
+Leena Mathur, University of Southern California
+John McFarlane, MSc
+Charles Windlin, Phd student, KTH Royal Institute of Technology, Stockholm, Sweden
+Yannick Meneceur, fellow researcher (IHEJ)
+Yoshiyuki Henning, PhD, Biologist
+Steph Brown, Assistant Professor, University of Arizona
+Annette Greiner, MIMS, Lawrence Berkeley National Laboratory
+Misra Ozoglu
+Mostafa Mesgari, Assistant Professor of Business Analytics, Loyola Marymount University
+Kat Higgins, PhD Researcher, LSE
+Rui Liu, Assistant Professor(robotics&AI), Kent State University
+Dr Tereza Iofciu
+Diana Rueda
+Dr. Stefan Popenici, Charles Darwin University
+Sarah Henni, PhD student
+Gerald Bermúdez, Freelance Journalist and Photojournalist.
+E. K. Vonstad, Resercher, Norwegian University of Science and Technology
+Dr. Robbie Fordyce, Lecturer in Data/Quantitative Analytics and Research Methods; Monash University
+Jerone Andrews, Research Fellow, AI Centre, University College London
+Sébastien A. Krier, Dataphysix
+Niels Justesen, PhD, modl.ai
+Tiffany Connors, Lawrence Berkeley National Laboratory
+Sijmen van der Willik, Artificial Intelligence Engineer
+Maranke Wieringa, MA, Datafied Society, Utrecht University
+Mark Henss, Research Assistent
+Andri Ashfahani, Mr., ITS Surabaya
+Billy Bjork
+laura l. sullivan, ph.d. student, university of memphis
+Lucine Oganesian
+Ola Leifler, assistant professor in Computer Science, Linköping Univeresity
+An Nuytiens VUB
+Óscar García Hinde, PhD student. Universidad Carlos III de Madrid.
+Roy Luo, software engineer
+Sascha van Schendel, PhD researcher at the Tilburg Institute for Law, Technology and Society
+Dr Birgit Schippers, St Mary's University College Belfast
+Marco Scirea
+Kohei Hayashi, Researcher
+Cynthia Khoo, Lawyer and Researcher, Tekhnos Law
+Penousal Machado, University of Coimbra, DEI, CISUC
+Natalie Widmann, Machine Learning Practitioner
+Timothy Loh, PhD student in HASTS, MIT
+Nicholas Santavas Democritus University of Thrace
+Professor Marina Jirotka, University of Oxford
+Antonios Gasteratos, Professor and Head of Department, Democritus University of Thrace, Greece
+Caglar Gulcehre
+Bernard Forgues, emlyon business school
+Henry Powell, PhD researcher in Computational Neuroscience and Deep Learning, University of Glasgow, UK
+Jessica Hamrick, Research Scientist, DeepMind
+Can Udomcharoenchaikit, Student, Chulalongkorn University
+Kathleen Bridges
+Ph.D. Alessandro B. Melchiorre, JKU, Linz, Austria
+Philipp Daegling, Architect
+Josie Park
+Anna Sun, Software Engineer, Facebook
+Tom Pelsmaeker
+Areeq Chowdhury, Director of WebRoots Democracy
+Olivier Coulon, CNRS Research Director, Institut de Neurosciences de la Timone, Marseille, France.
+Nevena Ivanova, PhD, Bulgarian Academy of Sciences
+Antonio Ragusa
+Cole Ellison, Physical Scientist & Mathematician, BGSU
+Oseghale Ojo, consulting analyst
+Carlos Eduardo Cancino-Chacón, PhD, Austrian Research Institute for Artificial Intelligence
+Nikos Nalmpantis, PhD Candidate, Laboratory of Robotics and Automation, PME, DUTH
+Maya Indira Ganesh, Leuphana University, Lüneburg, Germany
+Pedro Alves da Veiga, Ph.D., Universidade Aberta, Portugal
+Mikhail Filippov, Chief Scientist @Quod AI, Honorary Research Fellow @UCL
+Dr. Marjolein Lanzing IHub Radboud University
+Berend Alberts-de Gier, Rotterdam University of Applied Sciences
+Dr. Marjolein Lanzing IHub Radboud University
+Bernardo Esteves, MSc student, Instituto Superior Técnico
+Robert D. Hawkins, Postdoctoral Research Fellow, Princeton University
+Julien Vignon, Judge, Paris, France
+Ruben Wiersma, MSc, PhD candidate, Delft University of Technology
+Manisha Amin CEO, Centre for Inclusive Design
+Heitor Alvelos, Associate Professor, University of Porto
+Miranda Cheng, University of Amsterdam
+Alex Gekker, Assistant Professor of New Media and Digital Culture, University of Amsterdam
+K Prabhu Prakash, Data Scientist, Akaike Technologies
+Sarthak Ojha -Student/freelance researcher
+Inês Torrão
+Ronen Tamari, Hebrew University of Jerusalem, Israel
+Lavey Lukose, University of London, Royal Holloway
+Ralf Gommers, Director, Quansight Labs
+Faye Oosterhoff MSc Neuro-Ethology
+Alisa Bokulich, Professor of Philosophy, Director of Center for Philosophy & History of Science, Boston University
+Jens Ulrik Jørgensen, PhD Fellow, KADK - CITA
+Agnessa Karapetian, pre-doctoral student, Free University Berlin
+Alejandro Zapata Acosta, MS Student, UCLA
+Dr Simon Olofsson, Facebook UK
+E. Vasconcelos
+Tiago Santos, University of Coimbra
+Daniel Yokomizo, Human Being
+Bob Rudis, Chief Data Scientist, Rapid7
+Carlos E. Perez, Intuition Machine Inc.
+Thomas O'Mahoney, Anglia Ruskin University
+Lorenzo Quirós, PhD Candidate, Universitat Politècnica de València
+Mohammed Korayem, PhD , DataScience R&D at CareerBuilder
+Youmna Farag, PhD student, University of Cambridge
+Dylan Flesch, Digital Asset Manager, New York Public Radio
+Chihyung Jeon, Associate Professor of Science, Technology, and Policy, Korea Advanced Institute of Science and Technology (KAIST)
+Yung Au, University of Oxford
+Juliana Benitez
+Irina Shklovski, Professor, Department of Computer Science, University of Copenhagen
+Talia Hussain, Doctoral researcher, Loughborough London
+Amanda Stent, PhD
+Liz King, Librarian
+Luca De Feo, Research Staff Member, IBM Research
+Abel Jansma, PhD candidate, university of Edinburgh
+Nathanaël Perraudin, PhD, Swiss Data Science Center, ETH Zürich
+Guillaume Coqueret, Associate Professor, EMLYON Business School
+Glenn Sidle, PhD
+John Tamanas, PhD Candidate, UC Santa Cruz
+Frédérick Plamondon, Dept. Industriel relations, Université Laval
+Ra'ad Siraj
+Oshrat Ayalon, PhD candidate
+Tom Orrell, Managing Director, DataReady Limited
+Dr Jennifer Harris, City University London
+Divyansh Kaushik, PhD Student, Carnegie Mellon University
+Hugh McCabe, TU Dublin
+João Gonçalves, University of Coimbra, DEI, CISUC
+Nicholas Abad, Machine Learning Engineer, Alexander Thamm GmbH
+Elisabeth Giesemann Wikimedia Germany
+Dr Lisa Godinho, The University of Melbourne
+Elisabeth Giesemann Wikimedia Germany
+Walid Bannour, PhD candidate, University of Manouba
+Sayash Kapoor
+Brenda McPhail, PhD, Director, Privacy, Technology and Surveillance Program, Canadian Civil Liberties Association
+Step Christopher, Senior Engineering Manager and iOS Instructor, Big Nerd Ranch
+Paul Pearson, Associate Professor of Mathematics, Hope College
+Francesco Infante, Software Engineer, Linkurious
+Katherine O'Keefe, PhD Director of Training and Research, Castlebridge
+Tandy Warnow, Professor, Department of Computer Science, University of Illinois at Urbana-Champaign
+Erica Moroz, Brooklyn Public Library
+Rachel K. Walker, PhD, RN, Associate Professor & PhD Program Director, College of Nursing, University of Massachusetts-Amherst
+Dr J. Handsel
+Byron Drury, postdoctoral associate, MIT
+Huu-Nghia H. Nguyen, Undergraduate, University of Science, VNU-HCM
+Davide Ciucci, professor, University of Milano-Bicocca
+Meredith Brown, PhD, Senior data scientist
+Dr. Katherine Twomey, Lecturer in Language and Communicative Development, University of Manchester, UK
+Jake Neely, Principal AI Scientist, Forge.ai
+Virginia Dignum, professor Responsible Artificial Intelligence, Umeå University
+Jonathan Miller
+Alan Jeffrey
+Kyle Volle, NRC Postdoc at University of Florida
+Jassmin Brown, Capital One
+Risa Cromer, Assistant Professor of Anthropology, Purdue University
+Conor McCormack, graduate student, University of Southern California
+Michael Carnell, Information Technology, Medical University of South Carolina
+Jessica Espey, Director SDSN TReNDS
+Michael Bakken - Programmer
+Eric A. Meyer
+Elaine Ayers, Assistant Professor, NYU
+Manuel Strehl
+Eamonn Shaw, Head of Design & User Experience
+Nate Waggoner
+Kamen Brestnichki, Researcher, Privitar
+Austin Savill MSc Teaching English to Speakers of Other Languages University of Edinburgh
+Justin Bennington, Owner, Somewhere Systems LLC
+Stefan Heck, PhD, CEO Nauto, Inc.
+Stephen Blackwelder, PhD; Chief Analytics Officer; Duke University Health System
+Chris Emmery - PhD candidate - CSAI, Tilburg University
+Ameesh Shah, PhD Student at UC Berkeley
+Nafeesa Davis, Customer Support, Flickr
+Markus Naarttijärvi, Associate professor of law, Umeå University
+Jeffrey Forcier, computer programmer & sysadmin
+Sarah Esther Lageson, Assistant Professor, Rutgers University-Newark
+Alexander Radovic, Machine Learning Researcher, Borealis AI
+Mariam Asad, PhD
+Xristos Katsaros, Data Scientist
+Allyson Rogers, PhD candidate, Department of Art History and Communication Studies, McGill University
+Yassine Yousfi, PhD candidate, Binghamton University
+Andrew Sellars, Director, BU/MIT Technology Law Clinic, Boston University School of Law
+Lauri A. Bingham, MS in Psychology, Capella University
+Nil-Jana Akpinar, PhD student, Carnegie Mellon University
+Sean Wallace, Student, Northeastern University
+Andrew Zaharia, Associate Research Scientist, Columbia University, Mind Brain Behavior Institute
+Tyler DeAtley, PhD Candidate, North Carolina State Universty
+Victor Ansel, Undergraduate, Univesidade Veiga de Almeida - Brazil
+Pawel Zimoch, Machine Learning Research Scientist
+Nikhil Kaza, University of North Carolina at Chapel Hill
+Douglas Kell
+John Coyne
+Dr. Eyal Gruss, machine learning researcher and new-media artist
+Nigel Mathes, PhD - Data Scientist/Machine Learning Engineer
+Alicia Estes, New York University
+April Hathcock, Director of Scholarly Communications & Information Policy, NYU
+Krittika D'Silva, University of Cambridge
+Dri Tattersfield, Physics Student, Claremont McKenna College
+Adeline Almanzar, Data Analyst, Gamalon
+Sauhaarda Chowdhuri, Undergraduate Student, MIT
+Jacob Abbott, PhD Candidate, Indiana University
+Oliver Skanberg-Tippen, Machine Learning Engineer
+Andrea Merlo, Max Planck Institute of Plasma Physics
+Mourad Selimi Ministère de la justice
+Yuan Stevens; McGill University, Data & Society Research Institute
+AC Tally, doctoral researcher, Indiana University
+Gordon Freischlad
+Sara Al-Sayed, MA Philosophy of Technology student, TU Darmstadt, Germany
+Christophe Morvan, PhD
+Caroline Lair, Founder & CEO at The Good AI
+Sumanth Ratna, Thomas Jefferson High School for Science and Technology
+Kenan Ince, Assistant Professor of Mathematics, Westminster College
+Silvia Lindtner, Assistant Professor, University of Michigan
+Brandon Trude
+Tanya Roussy, graduate student, JILA
+Jill Conte, Head of Humanities and Social Sciences, Division of Libraries, NYU
+Maia Woluchem, Technology Fellow, Ford Foundation
+Jens Theilen, Research Associate, Helmut-Schmidt-University, Hamburg
+Heather Kobayashi, Software QA
+Tom Jenkins, Assistant Professor, IT University of Copenhagen
+Andrew H. Lee, Curator, New York University
+KS.Tan
+Bob E. Hayes, PhD, Business Over Broadway
+Dr. Lisa Messeri, Assistant Professor, Yale University
+Nathan Waniorek, BS Applied Mathematics student, CWRU
+Lucas Melchior, Senior Systems Engineer
+Edwige Cyffers, MSc Student, ENS Lyon
+Angela Ferraiolo, Program Chair, Visual & Studio Arts, Sarah Lawrence College
+Suzanne Tamang
+Kelsey Virginia Dufresne, PhD Student, NC State University
+Zachariah K Meador
+Jason Polakis, Assistant Professor, University of Illinois at Chicago
+Youssef Barhomi, Computer Vision Scientist
+Deepak Karunakaran (PhD)
+David Jurgens, Assistant Professor, University of Michigan
+Joseph Szymborski, PhD Student at McGill University and Mila Montreal
+Sophie D'inca justice lover
+Prem Ganeshkumar, Lead Natural Language Processing Engineer, Agolo
+Margeret Hall, Assistant Professor, University of Nebraska at Omaha (author of a referenced article that has since been retracted)
+Jess Holbrook, Co-founder, People + AI Research at Google
+John Jasperse, Director, Dance Program, Sarah Lawrence College
+Lucas De Lara, MS Student in Applied Mathematics, Ecole polytechnique
+Merideth Frey, Physics Faculty, Sarah Lawrence College
+Jesse Michel, Graduate Student, MIT
+Stephen Byrne, Senior IT Consultant
+Luke Dotson, Ph.D. student, University of Wisconsin Computer Sciences
+Ruud Hortensius, postdoctoral researcher, University of Glasgow
+Anna Harutyunyan, DeepMind
+Rajan Velayudhan, M.S Computer science , US-FDA
+Caley Horan, Associate Professor of History, Massachusetts Institute of Technology
+Bjarke Felbo, MIT
+Alan Duda
+Anne McCants, Professor of Economic History, MIT
+Konstantinos Christopher Tsiolis, Undergraduate Student and Research Intern, McGill University / Mila
+S. van Schalkwijk, Ph.D. retired
+Stephanie Hyland, Microsoft Research
+Kate O'Neill, founder, KO Insights
+Ahmad AbdulKader
+Akash Mehra, ML Research Engineer
+Angelina Shalupova, student of Khoury College of Computer Sciences at Northeastern University
+Thomas Woods, Senior Associate in Juvenile Justice, Annie E. Casey Foundation
+Gary Marcus, CEO, Robust AI; coauthor Rebooting AI
+Tim Mateosian
+David Petersen
+Andrew Sundstrom, PhD, Senior R&D Engineer, Nanotronics
+Dawn Graham, Data Engineer
+Shohini Stout, student, MIT
+Shohini Stout, student, MIT
+Jason Crabtree, QOMPLX, Inc.
+Soren Bear, Undergraduate Student, UC Santa Barbara
+Carl DiSalvo, Assoc Prof, Georgia Institute of Technology
+Billie Kincaid, Health Information Technology Manager, Community Health Partnership
+Derek DeWitt, GCIH, Information Security
+Lauren Maffeo, Associate Principal Analyst, Gartner
+Thibaut Vidal, Professor, PUC-Rio
+Andrew G., BS Computer Science
+Taylor B. Anderson, MS
+Mark W. Ellis, Ph.D., NBCT, Professor of Secondary Education, CSU Fullerton
+Frank Wang, SWE, Google
+Dale Sheldon-Hess, software engineer
+Stephen Portillo, postdoc, University of Washington
+Miles Baker, Software Engineer
+Susan Smith (PhD) Independent Scholar
+Carla J, AI/ML advocate
+Kathryn E. Ringland, PhD, UC President's Postdoc, UC Santa Cruz
+Dylan Cope, PhD Student in Artificial Intelligence, King's College London and Imperial College London
+Samin Aref, Research Scientist, Max Planck Institute for Demographic Research
+Luis G Franco , Scholar
+Krzysztof Gajos, Profesor of Computer Science, Harvard University
+Victor Rice
+Megan Greeley
+Ernest Davis, Professor of Computer Science, New York University
+Lisa Gerhardt, Lawrence Berkeley National Laboratory
+Frederico Gardaphe, Head of Business Development at Qri.io
+AJ Brown
+John Redgrave, CEO, Sentropy Technologies
+Yevgeniy Meyer, PhD, Sr. Staff Data Scientist @ Guru
+Sonia Gipson Rankin, Assistant Professor, University of New Mexico School of Law
+Mark Latonero, PhD, Harvard Kennedy School/Data & Society Research Institute
+Aske Mottelson, Postdoc, Department of Psychology, University of Copenhagen
+Phillip Hintikka Kieval, Graduate Student, University of Houston
+Eric Morrell, Consultant, Analytics8
+Eddie Orrego
+Yutan Getzler, Associate Professor of Chemistry, Kenyon College
+Cierra Robson, Phd Student in Sociology and Social Policy, Harvard University
+Shaozeng Zhang, Assistant Professor, Oregon State University
+Alfred Dennis Mathewson, Dean Emeritus, University of New Mexico School of Law
+Kyle Hsu, PhD Student, Stanford University
+Babatunde Aideyan, PhD Student - Counseling Psychology, Northeastern University
+Perris Richter, Head of Design, LSM, MIT Media Lab
+Jenny Rickley
+Sylvain Luc, industrial relations departement, Université Laval
+Elan Stopnitzky, Machine Learning Scientist, Insight Data Science
+Bran Selic, President, Malina Software Corp.
+Sam Murray-Sutton
+Rebekah Corbett, PhD researcher, Queens University Belfast
+Seth Isaacson, Undergraduate Student, Harvey Mudd College
+Rachael Creager, Insight Data Science
+Alexy Zanzi
+Chris Fabricant
+Candace Caldwell
+Fenwick McKelvey, Associated Professor, Concordia University
+Binod Bhattarai, Postdoctoral researcher, Imperial College London
+Dr. David Jung, Chief Software Engineer AI/Robotics, Yaskawa Motoman Robotics
+Attorney Jeffrey J. Szczewski
+Jake Chanenson
+Minni Hiiri, Faculty of Social sciences, University of Helsinki
+Sudhir Kumar Singh, Chief ML Architect, Automation Anywhere Inc.
+Andrew Ross, PhD Candidate in Computer Science, Harvard University
+Lindsay Popowski, Undergraduate Student, Harvey Mudd College
+Felan Parker, Assistant Professor, University of Toronto
+Renato Vicente, Associate Professor, University of São Paulo
+Dr Zoe Staines, Research Fellow, University of Queensland
+M. Alex O. Vasilescu, CSO, Tensor Vision
+Stephen Maher, Librarian for Social Work & Psychology, New York University
+Matthew Hill, deep learning practitioner
+Alan Barzilay, Graduate Student at IME - USP
+Sruthi Veeragandham, UC Berkeley '19
+Nedda Zarrabi, Student, Western University
+Yvonne Angwenyi
+Leena Joshi, Graduate Student, University of California, Berkeley
+Tina Eliassi-Rad, Professor, Northeastern University
+Janne Flyghed, professor, Department of criminology, Stockholm University
+Ashbal Sohail
+Harry Lee (Columbia University)
+Lily Lapidese, Designer
+Zane Peycke, Graduate Student, Columbia University
+Xiaochang Li, Assistant Professor, Stanford University
+Jason Gill, Research Assistant - sysadmin & software development, University of Western Ontario
+Nantas Nardelli, University of Oxford
+Kabir Abdulmajeed, Mr., Georgia Institute of Technology
+Emily Mackevicius, Postdoc, Zuckerman Institute, Columbia University
+Joseph Olson, Post-doc, University of Alabama at Birmingham
+Merve Hickok, AIethicist.org
+Dr. David Jung, Chief Software Engineer AI/Robotics, Yaskawa Motoman Robotics
+G. Matthew Fricke, Assistant Research Professor, Department of Computer Science, University of New Mexico
+Mostafa Dehghani, Research Scientist at Google Brain
+Tofunmi Ogungbaigbe, Software Engineer
+elizabeth a. nelson, PhD Teaching Associate Professor, North Carolina State University
+Ioannis Valasakis, PhD Candidate, King's College London
+Jason Cain, Graduate Student, University of Washington
+Lilly Chin, PhD Student, MIT
+Katherine Song, PhD student, University of California-Berkeley
+Chang Liu, PhD Candidate, Binghamton University
+Paola Ricaurte, Faculty Associate, Berkman Klein Center for Internet & Society, Harvard University
+Mihaela Curmei, graduate student, UC Berkeley
+Rahul Shome, Postdoctoral Research Associate, Rice University
+Michelle Drew DNP, MPH Executive Director Ubuntu Black Family Wellness Collective
+Sarah Laskey, Health Product R&D Scientist, 23andMe
+Aidan Louie
+Linda Huber, Doctoral Student, University of Michigan
+Gaurav Kaushik, PhD
+Nader Naderpajouh, Associate Professor, RMIT University
+Aeva Black, Open Source Program Manager, Microsoft
+Saurabh Vij, Q Blocks, Ex- Particle Physicist
+Arya D. McCarthy, PhD student, Johns Hopkins University
+Nikhil Dharmaraj, A.B. Harvard College
+Pedro Rodriguez, PhD Candidate, University of Maryland
+Dana Simmons; Associate Professor of History; University of California, Riverside
+Amy Fitzgerald SVP of Strategy for Numerator
+Jesse Damiani, Deputy Director of Emerging Technology, SNHU
+John Betts, Monash University
+Ryan Kennedy, Research Scientist
+Michael Petrov, Ph.D., VP, Technology, EyeLock
+Jennifer Rebecca Khaw, licensed mental health professional
+Dr Pip Shea
+Matthew Drury
+Patrick Cleary, Product Engineer, Cemtrex Advanced Technologies
+Alona Bach, PhD Student in History, Anthropology, and STS (HASTS), MIT
+Natasha Abner, University of Michigan
+Mr. Nathaniel Cudahy
+KJ Surkan, Ph.D. Lecturer in Women's and Gender Studies, MIT
+Pierre-Henri Morand, Pr. Economics, Avignon University
+Max Shenfield, Software Engineer, Google
+Leticia Duboc, Computer Science Lecturer and Researcher, La Salle-URL, Spain
+Alireza Sepas-Moghaddam, PhD
+Dr Diederik M. Roijers - Senior Lecturer, HU University of Applied Sciences Utrecht, Utrecht, the Netherlands, and Senior Researcher, Vrije Universiteit Brussel, Brussels, Belgium
+Bo An, PhD Candidate, Yale University / Max Planck Institute for the History of Science
+David Bjånes, PhD, Caltech
+Caner Mercan, PhD
+Matteo Morini, Computational Social Scientist
+Earl Arvin Calapatia - Software Dev, ML Researcher & Data Scientist
+nono33
+Alexander Lüttringhaus
+Geza Bohus, PhD, ML practicioner
+Sean Parsons, Software Developer
+Zach Shelby, Co-founder and CEO, Edge Impulse
+Daphne Muller, Msc, Magnus Black
+Daniel Irabien Peniche. Research Assistant. Tallinn University
+Laura Weidinger, Research Associate, DeepMind
+James Hammerton, Data Scientist, TUI
+Marta Revuelta, Media Artist an Independent Researcher
+Lucile Prunier, Data Scientist
+Pascal Lachat, geomatician, freelance
+Jin Zhao, clinical psychology PhD student, Syracuse University
+Shishir Nagaraja, Reader in Computer Security, University of Strathclyde
+Brett Bayles, Assistant Professor of Global Public Health, Dominican University of California
+Eren Sözüer, Lecturer, Istanbul University Faculty of Law
+Benjamin Vanlalvena
+Catherine Clark, Associate Professor of History and French Studies, MIT
+Graeme Johnston CEO Juralio Ltd
+E Platt, University of Edinburgh
+Kimberly Stachenfeld, Research Scientist, DeepMind
+Arthur Charpentier, professor, UQAM
+Adam Russell, CEng, IET
+Marcos Blandon
+Laura Jastrzab, PhD Student, Bangor University
+Ann Fitzpatrick community and social worker Cork Anti Poverty Resource Network
+Kunal Menda
+Laura Williams
+Kalpana Shankar, University College Dublin, Ireland
+Eric Minkley
+Kimberly Wilber, Google AI
+Berit Johnson
+Ariel Szekely, PhD Student, MIT
+Matthias Schilling
+Kristen Naegle, Associate Professor, University of Virginia
+Sharon Zhang, Undergraduate student, Princeton University
+Taryn Kurcz
+Luís F Seoane, PhD, Spanish National Center for Biotechnology
+Sunishth Goyal. Advocate. NALSAR India. Llm Candidate - Maastricht University
+Jessie Finocchiaro, PhD student, University of Colorado Boulder
+Zane Griffin Talley Cooper - PhD Candidate, University of Pennsylvania
+Niels Poulsen, Research Scholar, EPFL
+Jessica Perri
+Jamal, Consultant, Wellforce Healthcare (USA)
+Sevak Avakians, CTO Intelligent Artifacts, Inc.
+Alice E. Marwick, Associate Professor of Media and Technology Studies, UNC-Chapel Hill
+Olfa Nasraoui, University of Louisville
+Steven Cherry, Instructor, NYU Tandon School of Engineering
+Mikayla Stabile
+dr. Tommaso Caselli, Assistant Professor, Center for Language and Cognition Groningen, University of Groningen, the Netherlands
+Oliver Rollins, Assistant Professor of Sociology, University of Louisville
+Abraham Kim, Johns Hopkins University
+Matt Whitlock, PhD Student, UMass Amherst
+Sanjana Srivastava, AI PhD student, Stanford University
+John Harlow, Smart City Research Specialist at the Engagement Lab @ Emerson College
+Charles Earl, PhD, Data Scientist, Automattic.com
+Brian Zhang, Machine Learning Engineer, Stripe
+Samantha Sexton - Software Engineer
+Kevin McVey, Computer Vision Engineer
+Sarah Esther Lageson, Assistant Professor, Rutgers University-Newark
+Rachael Ivison, MS Bioinformatics
+Hector Dominguez, Open Data Coordinator - City of Portland, OR
+Buse Çetin
+Alvin van der Kuech, Software Engineer
+Michael Yang, PhD Candidate, Australian National University
+Clancy Wilmott, University of California, Berkeley
+Theresa Leigh, Professor, Oxford University
+Byron Wallace, Assistant Professor of Computer Science, Northeastern University
+Timon Merk, graduate student, Charite Berlin
+isis lovecruft, Cryptographer
+Mason Everett, Senior Technology Solutions Consultant, Credera
+Lemi Baruh, Associate Professor, Koç University
+Sierra Grant, PhD Student, Boston University
+Katya Scocimara, Student, Brown University
+Connor O'Brien, Graduate Student Researcher, Boston University
+Donna Auguste, PhD , Data Scientist, Auguste Research Group, LLC
+Kirill Polzounov
+Amanda S. Holtzman, Student (M.S. Experimental Psychology), Nova Southeastern University
+Wil Thomason, PhD Candidate in Robotics, Department of Computer Science, Cornell University
+Lauren Bridges, PhD candidate, Annenberg School for Communication, University of Pennsylvania
+Philipp Klaus, University of Cambridge
+Kevin Hosford, Digital Criminologist and PhD researcher, University College Cork
+Nasser Eledroos, Technologist, Office of Suffolk County District Attorney Rachael Rollins
+Alex Marthews, National Chair, Restore The Fourth
+Caleb Luna, PhD Candidate in Theater, Dance and Performance Studies, UC Berkeley
+Jan Mrkos, AIC, CVUT
+Lauren, St. Olaf College
+Isaaca Hoglen, Software Engineer
+Viveka Hall-Holt, student at St. Olaf College
+dan calacci, phd student, MIT media lab
+Elias Kruger VP, Analytics Manager at Wells Fargo
+Cedric Laurenty, New Media Artist.
+I am Soumya Chakraborty, a student from University of Calcutta. I feel that this research may lead to extreme police brutality and mass prisonment. Don't promote such technology or research.
+Swati Singh
+Aditya Kumar Ghosh, student of Calcutta University (UCSTA)
+Tanushree Dey
+Allison Parrish, Assistant Arts Professor, New York University
+Dagmar Monett, Prof. Dr. Computer Science, HWR Berlin and AGISI.org
+Felix A. Epp, Doctoral Candidate in Human-Computer Interaction, Aalto University, Finland
+Jeremy Yuille, independent systems researcher
+Matthias Leimeister, Data Scientist, Berlin
+Fabian Heckmann, Architect
+Arthit Suriyawongkul, SFI Centre for Research Training in Digitally-Enhanced Reality, Ireland
+Olga Bliznyuk
+Marco Buongiorno Nardelli, distinguished professor, University of North Texas
+Marc Badger, PhD, Postdoctoral Researcher, University of Pennsylvania
+Nikolai Meek, MI, University of Toronto
+Elias Kruger VP, Analytics Manager at Wells Fargo
+Stéphane Canu, INSA Rouen Normandy
+Eda Pepi, Assistant Professor, Yale University
+J Scott Christianson, Assistant Teaching Professor, University of Missouri-Columbia
+Shaun Mosley, Concerned citizen
+Manasa Hegde, PhD Student, Texas A&M University
+Harrison Brown, MPhil candidate, University of Cambridge
+Maggie Oates, PhD Student, Carnegie Mellon University
+Francesca Riccio-Ackerman, MIT Media Lab
+Prem Rajgopal
+Nawaf Alnaji, alum, Stanford University
+Sharique Hassan Manazir / STS Scholar/ Centre for Studies in Science Policy, Jawaharlal Nehru University
+Alfredo Adamo, CEO, Alan Advantage
+Katherine Alaks - MLIS Graduate Student
+Claire Rehfuss, AI Solution Architect, Microsoft
+Martha Barnard, Student, St. Olaf College
+Don Doumakes, retired software developer
+Nicholas J. Belkin, Distinguished Professor, Department of Library & Information Science, Rutgers Universi/ty
+Kate Weishaar, MIT '18
+Migel Tissera, CTO, Compression.ai
+Tarleton Gillespie, Microsoft Research
+Shubha Swamy, Student, University of Colorado Boulder
+Thibault Calvayrac, human being, concerned citizen and Machine Learning Engineer
+Ivan E. Leon, RPI
+Rachel Brydolf-Horwitz, PhD student, University of British Columbia
+Kent Wayland, PhD, Lecturer, Department of Engineering and Society, University of Virginia
+Ramon Lopez de Mantaras, Professor, AI Research Institute (IIIA), Spanish National Research Council (CSIC)
+Dr. Wednaud J. Ronelus, NYCDOE, STEM Education Research Scientist
+Matthew Moehr, PhD, Senior Data Scientist, SpeedGauge Inc.
+Derick Cornwall, Ubilytics Ltd
+Mete Civelek, Assistant Professor of Biomedical Engineering, University of Virginia
+Karan Singh Gill, SWE @ Google
+Caleb Vatral, PhD Student, Vanderbilt University
+Frank Schilder, Sr. Director, Thomson Reuters
+Sepideh Dolatshahi, Assistant Professor, University of Virginia
+Gozde Unal, Professor, Istanbul Technical University
+Kristina Kim, MIT 2017, Research Assistant II at Harvard University
+Dr. Andrew Marete, PhD, Aarhus University, Denmark
+Thomas Behling
+Eric Minkley
+Dr Dalila Hamidi, PhD Physics
+Tim Schatto-Eckrodt M.A., Department of Communication, University of Münster
+Syari Sinlae, Maastricht University
+Jibu Elias, Content and Research Lead AI, NASSCOM
+André Rodrigues, Coimbra Business School - ISCAC
+Zana Bucinca, PhD Student in Computer Science, Harvard University
+Justin Chan Kean Young
+Tomas Laurenzo
+Lundy Braun, Professor, Brown University
+Eptehal Nashnoush, student, Dalhousie university
+Cansu E. Dedeoglu, Faculty of Information, University of Toronto, Canada
+Taylor Gobar
+Jeffrey Finkelstein
+Joseph Schafer, undergraduate student, Paul G. Allen School of Computer Science & Engineering
+Kevin Janes, Professor, Department of Biomedical Engineering, University of Virginia
+Deena Abul-Fottouh Assistant Professor iSchool University of Toronto
+Asya Bergal
+Dr. Marjolein Lanzing IHub Radboud University
+Thomas Baudel, Research Director, IBM France Lab & University Paris-Saclay
+Andrew Hong
+Amruth Nag
+Prof. Francisco J. Tapiador. UCLM
+Brenden Peters, Software Engineer
+Dr Gwen van Eijk, Assistant Professor of Criminology, Erasmus University Rotterdam
+Richard Dinga, researcher, Donders Institute for Brain Cognition and Behaviour
+Luca Mariot, Postdoctoral Researcher, Delft University of Technology
+James D. White, Dir., Tactile Reproductions
+Greg Kochanski, Google, Inc.
+Dr. Tana Joseph
+Fabi Prezja, Doctoral Student, Applied Mathematics and Computational Sciences, University of Jyväskylä - Finland
+Brooke, none, Georgia Institute of Technology
+Dr Sue Fletcher-Watson, University of Edinburgh
+Don Briggs
+Zafarali Ahmed, Research Developer, DeepMind
+Taras Kucherenko, PhD student, KTH, Stockholm, Sweden
+Dr Ernesto Priego, Centre for Human-Computer Interaction Design, City, University of London
+Dr. Johannes Bruder, FHNW Academy of Art and Design Basel & Concordia University Montréal
+Daniel Leufer, PhD, KU Leuven Belgium
+Alena Popova, Ethics & Technology
+Jérôme Cezac - Business Developer
+Luca Sambucci
+Jasmine McNealy, Associate Professor, University of Florida
+Josefina Buschmann, MSc Comparative Media Studies, MIT
+Vinicius Reis - AI Researcher - Facebook AI Research
+Zilin Ma, PhD Student in Computer Science, Harvard University
+Justin Reber, PhD
+Coleen Carrigan | Associate Professor | Cal Poly, San Luis Obispo
+Karl Ricanek, Professor, Univ of North Carolina Wilmington
+Alexander Chilingaryan, CEO DATATILE, Data Scientist
+Carlos Xavier Hernández, Research Scientist, Facebook Reality Labs
+Hye Young Choi, MPH student, Harvard T.H. Chan School of Public Health
